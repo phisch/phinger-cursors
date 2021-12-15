@@ -1,0 +1,50 @@
+on: workflow_dispatch
+
+jobs:
+  generate_cursor_theme_job:
+    runs-on: ubuntu-latest
+    name: Build phinger-cursors, publish assets and draft release
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate variants and assets from Figma file
+        id: figma_cursor_theme
+        uses: phisch/figma-cursor-theme-action@v0.6.0
+        with:
+          figma_access_token: ${{ secrets.FIGMA_ACCESS_TOKEN }}
+          figma_file_key: ${{ secrets.FIGMA_FILE_KEY }}
+          alias_component_set_id: ${{ secrets.ALIAS_COMPONENT_SET_ID }}
+          sprite_component_set_id: ${{ secrets.SPRITE_COMPONENT_SET_ID }}
+          output_directory: 'build'
+          theme_name: 'Phinger Cursors'
+          theme_comment: 'The most over engineered cursor theme.'
+
+      - name: Update assets
+        run: |
+          rm -rf assets
+          mv ${{ steps.figma_cursor_theme.outputs.export_directory }} assets
+          mv ${{ steps.figma_cursor_theme.outputs.svg_directory }} assets/svg
+      
+      - name: Push updated assets
+        uses: EndBug/add-and-commit@v7
+        with:
+          add: 'assets'
+          default_author: github_actor
+          message: 'updated assets from figma file version ${{ steps.figma_cursor_theme.outputs.version }}'
+
+      - name: Compress variants
+        run: tar -cjf build/phinger-cursors-variants.tar.bz2 -C ${{ steps.figma_cursor_theme.outputs.theme_directory }} .
+
+      - name: Upload cursor variants artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: phinger-cursors-variants
+          path: build/phinger-cursors-variants.tar.bz2
+
+      - name: Draft Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: build/phinger-cursors-variants.tar.bz2
+          draft: true
+          tag_name: ${{ steps.figma_cursor_theme.outputs.version }}
