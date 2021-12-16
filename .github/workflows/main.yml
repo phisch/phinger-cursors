@@ -23,8 +23,8 @@ jobs:
       - name: Update assets
         run: |
           rm -rf assets
-          mv ${{ steps.figma_cursor_theme.outputs.export_directory }} assets
-          mv ${{ steps.figma_cursor_theme.outputs.svg_directory }} assets/svg
+          [ -f ${{ steps.figma_cursor_theme.outputs.export_directory }} ] && mv ${{ steps.figma_cursor_theme.outputs.export_directory }} assets
+          [ -f ${{ steps.figma_cursor_theme.outputs.svg_directory }} ] && mv ${{ steps.figma_cursor_theme.outputs.svg_directory }} assets/svg
       
       - name: Push updated assets
         uses: EndBug/add-and-commit@v7
