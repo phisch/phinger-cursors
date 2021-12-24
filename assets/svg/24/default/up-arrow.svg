@@ -1,14 +1,13 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_103_240)">
-<path d="M12 4L9 10.5L11 11.1667L11.5 20H12.5L13 11.1667L15 10.5L12 4Z" fill="#1F1F1F"/>
-<path d="M12.454 3.79047C12.3723 3.6134 12.195 3.5 12 3.5C11.805 3.5 11.6277 3.6134 11.546 3.79047L8.54602 10.2905C8.48642 10.4196 8.48463 10.568 8.54111 10.6985C8.59758 10.8291 8.70696 10.9294 8.84189 10.9743L10.52 11.5337L11.0008 20.0283C11.0158 20.293 11.2348 20.5 11.5 20.5H12.5C12.7652 20.5 12.9842 20.293 12.9992 20.0283L13.48 11.5337L15.1581 10.9743C15.293 10.9294 15.4024 10.8291 15.4589 10.6985C15.5154 10.568 15.5136 10.4196 15.454 10.2905L12.454 3.79047Z" stroke="white" stroke-linejoin="round"/>
+<path d="M12.4402 3.76295C12.353 3.601 12.1839 3.5 12 3.5C11.8161 3.5 11.647 3.601 11.5598 3.76295L8.05976 10.2629C7.99222 10.3884 7.9814 10.5367 8.03 10.6706C8.07861 10.8045 8.18203 10.9113 8.3143 10.9642L10.5 11.8385V20C10.5 20.2761 10.7239 20.5 11 20.5H13C13.2761 20.5 13.5 20.2761 13.5 20V11.8385L15.6857 10.9642C15.818 10.9113 15.9214 10.8045 15.97 10.6706C16.0186 10.5367 16.0078 10.3884 15.9402 10.2629L12.4402 3.76295Z" fill="#1B1B1B" stroke="#FCFCFC" stroke-linejoin="round"/>
 </g>
 <defs>
-<filter id="filter0_d_103_240" x="7" y="2" width="12" height="22" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_103_240" x="0" y="0" width="26" height="26" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dx="1" dy="1"/>
-<feGaussianBlur stdDeviation="1"/>
+<feGaussianBlur stdDeviation="0.5"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_103_240"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_103_240" result="shape"/>
