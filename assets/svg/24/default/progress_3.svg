@@ -1,15 +1,12 @@
 <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_173_1499)" filter="url(#filter0_d_173_1499)">
+<g filter="url(#filter0_d_173_1499)">
 <mask id="path-1-outside-1_173_1499" maskUnits="userSpaceOnUse" x="2" y="2" width="10" height="16" fill="black">
 <rect fill="white" x="2" y="2" width="10" height="16"/>
 <path d="M11 11.3L3 3L3 14.5L6 14L8.3 17L9 16.7L8.7 13L11 11.3Z"/>
 </mask>
 <path d="M11 11.3L3 3L3 14.5L6 14L8.3 17L9 16.7L8.7 13L11 11.3Z" fill="#1B1B1B"/>
 <path d="M11 11.3L3 3L3 14.5L6 14L8.3 17L9 16.7L8.7 13L11 11.3Z" stroke="#FCFCFC" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_173_1499)"/>
-<g filter="url(#filter1_d_173_1499)">
-<circle cx="16.5" cy="16.5" r="4.5" transform="rotate(45 16.5 16.5)" fill="#1B1B1B"/>
 <circle cx="16.5" cy="16.5" r="5" transform="rotate(45 16.5 16.5)" stroke="#FCFCFC" stroke-linejoin="round"/>
-</g>
 <path d="M18.9125 12.7022C19.0636 12.7981 19.2091 12.9031 19.348 13.0165C19.4628 13.1106 19.5741 13.2112 19.6813 13.3184C19.9662 13.6033 20.2048 13.9168 20.3973 14.2498C20.5894 14.583 20.7416 14.9464 20.8459 15.3356C20.8851 15.482 20.9167 15.6287 20.9408 15.7753C20.99 16.0781 21.0081 16.385 20.9952 16.6909C19.6808 17.7722 17.7403 17.7085 16.4997 16.4998C18.1665 16.0297 19.1918 14.381 18.9125 12.7022Z" fill="#FF3D3D"/>
 <path d="M20.9953 16.6905C20.9878 16.8693 20.9696 17.0477 20.9409 17.2248C20.9168 17.3713 20.8852 17.518 20.846 17.6644C20.7417 18.0535 20.5895 18.417 20.3975 18.7501C20.205 19.0831 19.9663 19.3967 19.6814 19.6815C19.5742 19.7887 19.4629 19.8894 19.3481 19.9835C19.1104 20.1775 18.8536 20.3467 18.5823 20.4885C16.9887 19.8909 16.0735 18.1784 16.5 16.4997C17.7406 17.7082 19.681 17.7718 20.9953 16.6905Z" fill="#FF8E3D"/>
 <path d="M18.5827 20.4884C18.4241 20.5712 18.2605 20.6447 18.0928 20.7083C17.9539 20.7607 17.8111 20.8068 17.6646 20.846C17.2755 20.9503 16.8847 21.0002 16.5001 21.0004C16.1155 21.0002 15.7246 20.9503 15.3355 20.846C15.189 20.8068 15.0462 20.7607 14.9072 20.7083C14.6204 20.5995 14.3455 20.4617 14.0871 20.2976C13.8078 18.6187 14.8332 16.97 16.5003 16.4999C16.074 18.1786 16.9891 19.8908 18.5827 20.4884Z" fill="#FFEF3D"/>
@@ -27,17 +24,5 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_173_1499"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_173_1499" result="shape"/>
 </filter>
-<filter id="filter1_d_173_1499" x="10" y="10" width="15" height="15" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="1" dy="1"/>
-<feGaussianBlur stdDeviation="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_173_1499"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_173_1499" result="shape"/>
-</filter>
-<clipPath id="clip0_173_1499">
-<rect width="24" height="24" fill="white"/>
-</clipPath>
 </defs>
 </svg>
