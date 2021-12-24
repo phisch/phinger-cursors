@@ -1,6 +1,11 @@
 <svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_103_241)">
-<path d="M16.4524 4.7871C16.3699 4.61186 16.1937 4.5 16 4.5C15.8063 4.5 15.6301 4.61186 15.5476 4.7871L11.5476 13.2871C11.4868 13.4164 11.4841 13.5655 11.5404 13.6968C11.5966 13.8282 11.7063 13.9292 11.8419 13.9743L14.5 14.8604V27C14.5 27.2761 14.7239 27.5 15 27.5H17C17.2761 27.5 17.5 27.2761 17.5 27V14.8604L20.1581 13.9743C20.2937 13.9292 20.4034 13.8282 20.4596 13.6968C20.5159 13.5655 20.5132 13.4164 20.4524 13.2871L16.4524 4.7871Z" fill="#1B1B1B" stroke="#FCFCFC" stroke-linejoin="round"/>
+<mask id="path-1-outside-1_103_241" maskUnits="userSpaceOnUse" x="11" y="4" width="10" height="24" fill="black">
+<rect fill="white" x="11" y="4" width="10" height="24"/>
+<path d="M16 5L12 13.5L15 14.5V27H17V14.5L20 13.5L16 5Z"/>
+</mask>
+<path d="M16 5L12 13.5L15 14.5V27H17V14.5L20 13.5L16 5Z" fill="#1B1B1B"/>
+<path d="M16 5L12 13.5L15 14.5V27H17V14.5L20 13.5L16 5Z" stroke="#FCFCFC" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_103_241)"/>
 </g>
 <defs>
 <filter id="filter0_d_103_241" x="0" y="0" width="34" height="34" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

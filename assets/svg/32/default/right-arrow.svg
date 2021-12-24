@@ -1,6 +1,11 @@
 <svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_103_388)" filter="url(#filter0_d_103_388)">
-<path d="M27.2129 16.4524C27.3881 16.3699 27.5 16.1937 27.5 16C27.5 15.8063 27.3881 15.6301 27.2129 15.5476L18.7129 11.5476C18.5836 11.4868 18.4345 11.4841 18.3032 11.5404C18.1718 11.5966 18.0708 11.7063 18.0257 11.8419L17.1396 14.5L5 14.5C4.72386 14.5 4.5 14.7239 4.5 15L4.5 17C4.5 17.2761 4.72386 17.5 5 17.5L17.1396 17.5L18.0257 20.1581C18.0708 20.2937 18.1718 20.4034 18.3032 20.4596C18.4345 20.5159 18.5836 20.5132 18.7129 20.4524L27.2129 16.4524Z" fill="#1B1B1B" stroke="#FCFCFC" stroke-linejoin="round"/>
+<mask id="path-1-outside-1_103_388" maskUnits="userSpaceOnUse" x="4" y="11" width="24" height="10" fill="black">
+<rect fill="white" x="4" y="11" width="24" height="10"/>
+<path d="M27 16L18.5 12L17.5 15L5 15L5 17L17.5 17L18.5 20L27 16Z"/>
+</mask>
+<path d="M27 16L18.5 12L17.5 15L5 15L5 17L17.5 17L18.5 20L27 16Z" fill="#1B1B1B"/>
+<path d="M27 16L18.5 12L17.5 15L5 15L5 17L17.5 17L18.5 20L27 16Z" stroke="#FCFCFC" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_103_388)"/>
 </g>
 <defs>
 <filter id="filter0_d_103_388" x="0" y="0" width="34" height="34" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

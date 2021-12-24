@@ -1,6 +1,20 @@
 <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_103_252)">
-<path d="M11 2.5C10.7239 2.5 10.5 2.72386 10.5 3V9C10.5 9.27614 10.7239 9.5 11 9.5H13C13.2761 9.5 13.5 9.27614 13.5 9V3C13.5 2.72386 13.2761 2.5 13 2.5H11ZM14.5 13C14.5 13.2761 14.7239 13.5 15 13.5H21C21.2761 13.5 21.5 13.2761 21.5 13V11C21.5 10.7239 21.2761 10.5 21 10.5H15C14.7239 10.5 14.5 10.7239 14.5 11V13ZM11 14.5C10.7239 14.5 10.5 14.7239 10.5 15V21C10.5 21.2761 10.7239 21.5 11 21.5H13C13.2761 21.5 13.5 21.2761 13.5 21V15C13.5 14.7239 13.2761 14.5 13 14.5H11ZM2.5 13C2.5 13.2761 2.72386 13.5 3 13.5H9C9.27614 13.5 9.5 13.2761 9.5 13V11C9.5 10.7239 9.27614 10.5 9 10.5H3C2.72386 10.5 2.5 10.7239 2.5 11V13Z" fill="#1B1B1B" stroke="#FCFCFC" stroke-linejoin="round"/>
+<mask id="path-1-outside-1_103_252" maskUnits="userSpaceOnUse" x="2" y="2" width="20" height="20" fill="black">
+<rect fill="white" x="2" y="2" width="20" height="20"/>
+<path d="M11 3V9H13V3H11Z"/>
+<path d="M15 13V11H21V13H15Z"/>
+<path d="M11 15H13V21H11V15Z"/>
+<path d="M3 13H9V11H3V13Z"/>
+</mask>
+<path d="M11 3V9H13V3H11Z" fill="#1B1B1B"/>
+<path d="M15 13V11H21V13H15Z" fill="#1B1B1B"/>
+<path d="M11 15H13V21H11V15Z" fill="#1B1B1B"/>
+<path d="M3 13H9V11H3V13Z" fill="#1B1B1B"/>
+<path d="M11 3V9H13V3H11Z" stroke="#FCFCFC" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_103_252)"/>
+<path d="M15 13V11H21V13H15Z" stroke="#FCFCFC" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_103_252)"/>
+<path d="M11 15H13V21H11V15Z" stroke="#FCFCFC" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_103_252)"/>
+<path d="M3 13H9V11H3V13Z" stroke="#FCFCFC" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_103_252)"/>
 </g>
 <defs>
 <filter id="filter0_d_103_252" x="0" y="0" width="26" height="26" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
