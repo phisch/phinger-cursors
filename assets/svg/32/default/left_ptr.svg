@@ -2,10 +2,10 @@
 <g filter="url(#filter0_d_102_11)">
 <mask id="path-1-outside-1_102_11" maskUnits="userSpaceOnUse" x="2.19995" y="3" width="14" height="22" fill="black">
 <rect fill="white" x="2.19995" y="3" width="14" height="22"/>
-<path d="M15.2 15.8782L3.99995 4L3.99995 20.2437L7.99993 19.736L11.3999 24L12.2981 23.5913L11.9999 18.2132L15.2 15.8782Z"/>
+<path d="M15.2 15.8782L3.99995 4L3.99996 20.2437L7.99994 19.736L11.3999 24L12.2981 23.5913L11.9999 18.2132L15.2 15.8782Z"/>
 </mask>
-<path d="M15.2 15.8782L3.99995 4L3.99995 20.2437L7.99993 19.736L11.3999 24L12.2981 23.5913L11.9999 18.2132L15.2 15.8782Z" fill="#1B1B1B"/>
-<path d="M15.2 15.8782L3.99995 4L3.99995 20.2437L7.99993 19.736L11.3999 24L12.2981 23.5913L11.9999 18.2132L15.2 15.8782Z" stroke="#FCFCFC" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_102_11)"/>
+<path d="M15.2 15.8782L3.99995 4L3.99996 20.2437L7.99994 19.736L11.3999 24L12.2981 23.5913L11.9999 18.2132L15.2 15.8782Z" fill="#1B1B1B"/>
+<path d="M15.2 15.8782L3.99995 4L3.99996 20.2437L7.99994 19.736L11.3999 24L12.2981 23.5913L11.9999 18.2132L15.2 15.8782Z" stroke="#FCFCFC" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_102_11)"/>
 </g>
 <defs>
 <filter id="filter0_d_102_11" x="0" y="0" width="34" height="34" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
