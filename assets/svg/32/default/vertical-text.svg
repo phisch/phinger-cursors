@@ -1,21 +1,21 @@
 <svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_d_103_453)">
-<mask id="path-1-outside-1_103_453" maskUnits="userSpaceOnUse" x="5" y="11" width="22" height="10" fill="black">
-<rect fill="white" x="5" y="11" width="22" height="10"/>
-<path d="M24.5 19.9999H26V17.5C26 17.5 26 16 25 16C26 16 26 14.5 26 14.5L26 12H24.5L24.5 14C24.5 14 24.5 15 23.5 15L8.49999 15C7.49999 15 7.49999 14 7.49999 14L7.5 12H5.99999L5.99999 14.5C5.99999 14.5 5.99999 16 7 16C5.99999 16 6 17.5 6 17.5L5.99999 19.9999H7.5V18C7.5 18 7.5 17 8.5 17H23.5C24.5 17 24.5 18 24.5 18V19.9999Z"/>
+<g filter="url(#filter0_d_182_7067)">
+<mask id="path-1-outside-1_182_7067" maskUnits="userSpaceOnUse" x="5" y="11" width="22" height="9" fill="black">
+<rect fill="white" x="5" y="11" width="22" height="9"/>
+<path d="M25 19H26L26 16.5C26 16.5 26 15.5 25.25 15.5C26 15.5 26 14.5 26 14.5L26 12H25L25 14C25 14 25 15 24 15L8 15.0001C7 15.0001 7 14.0001 7 14.0001L7.00001 12L6.00001 12L6 14.5001C6 14.5001 6 15.5001 6.75 15.5001C6 15.5001 6 16.5001 6 16.5001L6 19H7V17.0001C7 17.0001 7 16.0001 8 16.0001L24 16C25 16 25 17 25 17L25 19Z"/>
 </mask>
-<path d="M24.5 19.9999H26V17.5C26 17.5 26 16 25 16C26 16 26 14.5 26 14.5L26 12H24.5L24.5 14C24.5 14 24.5 15 23.5 15L8.49999 15C7.49999 15 7.49999 14 7.49999 14L7.5 12H5.99999L5.99999 14.5C5.99999 14.5 5.99999 16 7 16C5.99999 16 6 17.5 6 17.5L5.99999 19.9999H7.5V18C7.5 18 7.5 17 8.5 17H23.5C24.5 17 24.5 18 24.5 18V19.9999Z" fill="#1B1B1B"/>
-<path d="M24.5 19.9999H26V17.5C26 17.5 26 16 25 16C26 16 26 14.5 26 14.5L26 12H24.5L24.5 14C24.5 14 24.5 15 23.5 15L8.49999 15C7.49999 15 7.49999 14 7.49999 14L7.5 12H5.99999L5.99999 14.5C5.99999 14.5 5.99999 16 7 16C5.99999 16 6 17.5 6 17.5L5.99999 19.9999H7.5V18C7.5 18 7.5 17 8.5 17H23.5C24.5 17 24.5 18 24.5 18V19.9999Z" stroke="#FCFCFC" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_103_453)"/>
+<path d="M25 19H26L26 16.5C26 16.5 26 15.5 25.25 15.5C26 15.5 26 14.5 26 14.5L26 12H25L25 14C25 14 25 15 24 15L8 15.0001C7 15.0001 7 14.0001 7 14.0001L7.00001 12L6.00001 12L6 14.5001C6 14.5001 6 15.5001 6.75 15.5001C6 15.5001 6 16.5001 6 16.5001L6 19H7V17.0001C7 17.0001 7 16.0001 8 16.0001L24 16C25 16 25 17 25 17L25 19Z" fill="#1F1F1F"/>
+<path d="M25 19H26L26 16.5C26 16.5 26 15.5 25.25 15.5C26 15.5 26 14.5 26 14.5L26 12H25L25 14C25 14 25 15 24 15L8 15.0001C7 15.0001 7 14.0001 7 14.0001L7.00001 12L6.00001 12L6 14.5001C6 14.5001 6 15.5001 6.75 15.5001C6 15.5001 6 16.5001 6 16.5001L6 19H7V17.0001C7 17.0001 7 16.0001 8 16.0001L24 16C25 16 25 17 25 17L25 19Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7067)"/>
 </g>
 <defs>
-<filter id="filter0_d_103_453" x="0" y="0" width="34" height="34" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_182_7067" x="0" y="0" width="34" height="34" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dx="1" dy="1"/>
 <feGaussianBlur stdDeviation="0.5"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_103_453"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_103_453" result="shape"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_182_7067"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_182_7067" result="shape"/>
 </filter>
 </defs>
 </svg>

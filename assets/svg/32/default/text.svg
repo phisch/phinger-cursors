@@ -1,21 +1,21 @@
 <svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_d_103_249)">
-<mask id="path-1-outside-1_103_249" maskUnits="userSpaceOnUse" x="11" y="5" width="10" height="22" fill="black">
-<rect fill="white" x="11" y="5" width="10" height="22"/>
-<path d="M20 7.5V6H17.5C17.5 6 16 6.00001 16 7C16 6 14.5 6.00001 14.5 6.00001L12 6V7.5L14 7.50001C14 7.50001 15 7.5 15 8.5L15 23.5C15 24.5 14 24.5 14 24.5L12 24.5V26L14.5 26C14.5 26 16 26 16 25C16 26 17.5 26 17.5 26L20 26V24.5H18C18 24.5 17 24.5 17 23.5V8.5C17 7.5 18 7.5 18 7.5H20Z"/>
+<g filter="url(#filter0_d_182_7059)">
+<mask id="path-1-outside-1_182_7059" maskUnits="userSpaceOnUse" x="11" y="5" width="9" height="22" fill="black">
+<rect fill="white" x="11" y="5" width="9" height="22"/>
+<path d="M19 7.00001V6.00001L16.5 6.00001C16.5 6.00001 15.5 6.00001 15.5 6.75001C15.5 6.00001 14.5 6.00001 14.5 6.00001L12 6V7L14 7.00001C14 7.00001 15 7.00001 15 8.00001L15.0001 24C15.0001 25 14.0001 25 14.0001 25L12 25L12 26L14.5001 26C14.5001 26 15.5001 26 15.5001 25.25C15.5001 26 16.5001 26 16.5001 26L19 26V25H17.0001C17.0001 25 16.0001 25 16.0001 24L16 8.00001C16 7.00001 17 7.00001 17 7.00001L19 7.00001Z"/>
 </mask>
-<path d="M20 7.5V6H17.5C17.5 6 16 6.00001 16 7C16 6 14.5 6.00001 14.5 6.00001L12 6V7.5L14 7.50001C14 7.50001 15 7.5 15 8.5L15 23.5C15 24.5 14 24.5 14 24.5L12 24.5V26L14.5 26C14.5 26 16 26 16 25C16 26 17.5 26 17.5 26L20 26V24.5H18C18 24.5 17 24.5 17 23.5V8.5C17 7.5 18 7.5 18 7.5H20Z" fill="#1B1B1B"/>
-<path d="M20 7.5V6H17.5C17.5 6 16 6.00001 16 7C16 6 14.5 6.00001 14.5 6.00001L12 6V7.5L14 7.50001C14 7.50001 15 7.5 15 8.5L15 23.5C15 24.5 14 24.5 14 24.5L12 24.5V26L14.5 26C14.5 26 16 26 16 25C16 26 17.5 26 17.5 26L20 26V24.5H18C18 24.5 17 24.5 17 23.5V8.5C17 7.5 18 7.5 18 7.5H20Z" stroke="#FCFCFC" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_103_249)"/>
+<path d="M19 7.00001V6.00001L16.5 6.00001C16.5 6.00001 15.5 6.00001 15.5 6.75001C15.5 6.00001 14.5 6.00001 14.5 6.00001L12 6V7L14 7.00001C14 7.00001 15 7.00001 15 8.00001L15.0001 24C15.0001 25 14.0001 25 14.0001 25L12 25L12 26L14.5001 26C14.5001 26 15.5001 26 15.5001 25.25C15.5001 26 16.5001 26 16.5001 26L19 26V25H17.0001C17.0001 25 16.0001 25 16.0001 24L16 8.00001C16 7.00001 17 7.00001 17 7.00001L19 7.00001Z" fill="#1F1F1F"/>
+<path d="M19 7.00001V6.00001L16.5 6.00001C16.5 6.00001 15.5 6.00001 15.5 6.75001C15.5 6.00001 14.5 6.00001 14.5 6.00001L12 6V7L14 7.00001C14 7.00001 15 7.00001 15 8.00001L15.0001 24C15.0001 25 14.0001 25 14.0001 25L12 25L12 26L14.5001 26C14.5001 26 15.5001 26 15.5001 25.25C15.5001 26 16.5001 26 16.5001 26L19 26V25H17.0001C17.0001 25 16.0001 25 16.0001 24L16 8.00001C16 7.00001 17 7.00001 17 7.00001L19 7.00001Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7059)"/>
 </g>
 <defs>
-<filter id="filter0_d_103_249" x="0" y="0" width="34" height="34" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_182_7059" x="0" y="0" width="34" height="34" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dx="1" dy="1"/>
 <feGaussianBlur stdDeviation="0.5"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_103_249"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_103_249" result="shape"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_182_7059"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_182_7059" result="shape"/>
 </filter>
 </defs>
 </svg>
