@@ -1,21 +1,21 @@
-<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_182_6986)">
-<mask id="path-1-outside-1_182_6986" maskUnits="userSpaceOnUse" x="2.19995" y="3" width="14" height="22" fill="black">
-<rect fill="white" x="2.19995" y="3" width="14" height="22"/>
-<path d="M15.2 15.8782L3.99995 4L3.99995 20.2437L7.99993 19.736L11.3999 24L12.2981 23.5913L11.9999 18.2132L15.2 15.8782Z"/>
+<mask id="path-1-outside-1_182_6986" maskUnits="userSpaceOnUse" x="4.19995" y="5" width="14" height="22" fill="black">
+<rect fill="white" x="4.19995" y="5" width="14" height="22"/>
+<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z"/>
 </mask>
-<path d="M15.2 15.8782L3.99995 4L3.99995 20.2437L7.99993 19.736L11.3999 24L12.2981 23.5913L11.9999 18.2132L15.2 15.8782Z" fill="#1F1F1F"/>
-<path d="M15.2 15.8782L3.99995 4L3.99995 20.2437L7.99993 19.736L11.3999 24L12.2981 23.5913L11.9999 18.2132L15.2 15.8782Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6986)"/>
-<circle cx="21.5" cy="21.5" r="5.5" fill="#ED5E5E"/>
-<circle cx="21.5" cy="21.5" r="6" stroke="white" stroke-opacity="0.9" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M24.5795 19.8347L19.8347 24.5795C21.1612 25.2975 22.8537 25.096 23.9748 23.9749C25.096 22.8538 25.2975 21.1613 24.5795 19.8347ZM23.1652 18.4205L18.4205 23.1653C17.7024 21.8387 17.904 20.1463 19.0251 19.0251C20.1462 17.904 21.8387 17.7025 23.1652 18.4205Z" fill="white" fill-opacity="0.9"/>
+<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z" fill="#1F1F1F"/>
+<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6986)"/>
+<circle cx="23.5" cy="23.5" r="5.5" fill="#ED5E5E"/>
+<circle cx="23.5" cy="23.5" r="6" stroke="white" stroke-opacity="0.9" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M26.5795 21.8347L21.8347 26.5795C23.1612 27.2975 24.8537 27.096 25.9748 25.9749C27.096 24.8538 27.2975 23.1613 26.5795 21.8347ZM25.1652 20.4205L20.4205 25.1653C19.7024 23.8387 19.904 22.1463 21.0251 21.0251C22.1462 19.904 23.8387 19.7025 25.1652 20.4205Z" fill="white" fill-opacity="0.9"/>
 </g>
 <defs>
-<filter id="filter0_d_182_6986" x="0" y="0" width="34" height="34" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_182_6986" x="0" y="0" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="1" dy="1"/>
-<feGaussianBlur stdDeviation="0.5"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_182_6986"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_182_6986" result="shape"/>

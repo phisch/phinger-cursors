@@ -1,24 +1,24 @@
-<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_182_7093)" filter="url(#filter0_d_182_7093)">
-<mask id="path-1-outside-1_182_7093" maskUnits="userSpaceOnUse" x="3" y="7.5" width="18" height="9" fill="black">
-<rect fill="white" x="3" y="7.5" width="18" height="9"/>
-<path d="M4 12L10.5 15.5L11.5 13L20 12.5L20 11.5L11.5 11L10.5 8.5L4 12Z"/>
+<mask id="path-1-outside-1_182_7093" maskUnits="userSpaceOnUse" x="5" y="9.5" width="18" height="9" fill="black">
+<rect fill="white" x="5" y="9.5" width="18" height="9"/>
+<path d="M6 14L12.5 17.5L13.5 15L22 14.5L22 13.5L13.5 13L12.5 10.5L6 14Z"/>
 </mask>
-<path d="M4 12L10.5 15.5L11.5 13L20 12.5L20 11.5L11.5 11L10.5 8.5L4 12Z" fill="#1F1F1F"/>
-<path d="M4 12L10.5 15.5L11.5 13L20 12.5L20 11.5L11.5 11L10.5 8.5L4 12Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7093)"/>
+<path d="M6 14L12.5 17.5L13.5 15L22 14.5L22 13.5L13.5 13L12.5 10.5L6 14Z" fill="#1F1F1F"/>
+<path d="M6 14L12.5 17.5L13.5 15L22 14.5L22 13.5L13.5 13L12.5 10.5L6 14Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7093)"/>
 </g>
 <defs>
-<filter id="filter0_d_182_7093" x="0" y="0" width="26" height="26" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_182_7093" x="0" y="0" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="1" dy="1"/>
-<feGaussianBlur stdDeviation="0.5"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_182_7093"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_182_7093" result="shape"/>
 </filter>
 <clipPath id="clip0_182_7093">
-<rect width="24" height="24" fill="white"/>
+<rect width="24" height="24" fill="white" transform="translate(2 2)"/>
 </clipPath>
 </defs>
 </svg>
