@@ -5,7 +5,7 @@
 <path d="M4.99994 19L4.99994 31L16.9999 31L16.9999 30L5.99994 30L5.99994 19L4.99994 19Z"/>
 </mask>
 <path d="M4.99994 19L4.99994 31L16.9999 31L16.9999 30L5.99994 30L5.99994 19L4.99994 19Z" fill="#1F1F1F"/>
-<path d="M4.99994 19L4.99994 31L16.9999 31L16.9999 30L5.99994 30L5.99994 19L4.99994 19Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_184_1536)"/>
+<path d="M4.99994 19L4.99994 31L16.9999 31L16.9999 30L5.99994 30L5.99994 19L4.99994 19Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_184_1536)"/>
 </g>
 <defs>
 <filter id="filter0_d_184_1536" x="0" y="0" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

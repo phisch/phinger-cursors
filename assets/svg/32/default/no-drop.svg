@@ -5,10 +5,9 @@
 <path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z"/>
 </mask>
 <path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z" fill="#1F1F1F"/>
-<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6986)"/>
-<circle cx="23.5" cy="23.5" r="5.5" fill="#ED5E5E"/>
-<circle cx="23.5" cy="23.5" r="6" stroke="white" stroke-opacity="0.9" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M26.5795 21.8347L21.8347 26.5795C23.1612 27.2975 24.8537 27.096 25.9748 25.9749C27.096 24.8538 27.2975 23.1613 26.5795 21.8347ZM25.1652 20.4205L20.4205 25.1653C19.7024 23.8387 19.904 22.1463 21.0251 21.0251C22.1462 19.904 23.8387 19.7025 25.1652 20.4205Z" fill="white" fill-opacity="0.9"/>
+<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6986)"/>
+<circle cx="23.5" cy="23.5" r="6" fill="#ED5E5E" stroke="white" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M26.5795 21.8347L21.8347 26.5795C23.1612 27.2975 24.8537 27.096 25.9748 25.9749C27.096 24.8538 27.2975 23.1613 26.5795 21.8347ZM25.1652 20.4205L20.4205 25.1653C19.7024 23.8387 19.904 22.1463 21.0251 21.0251C22.1462 19.904 23.8387 19.7025 25.1652 20.4205Z" fill="white"/>
 </g>
 <defs>
 <filter id="filter0_d_182_6986" x="0" y="0" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

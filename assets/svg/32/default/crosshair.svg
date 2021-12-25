@@ -11,10 +11,10 @@
 <path d="M20 18V17H29V18H20Z" fill="#1F1F1F"/>
 <path d="M17 20H18V29H17V20Z" fill="#1F1F1F"/>
 <path d="M6 18H15V17H6V18Z" fill="#1F1F1F"/>
-<path d="M17 6V15H18V6H17Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7079)"/>
-<path d="M20 18V17H29V18H20Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7079)"/>
-<path d="M17 20H18V29H17V20Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7079)"/>
-<path d="M6 18H15V17H6V18Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7079)"/>
+<path d="M17 6V15H18V6H17Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7079)"/>
+<path d="M20 18V17H29V18H20Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7079)"/>
+<path d="M17 20H18V29H17V20Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7079)"/>
+<path d="M6 18H15V17H6V18Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7079)"/>
 </g>
 <defs>
 <filter id="filter0_d_182_7079" x="0" y="0" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

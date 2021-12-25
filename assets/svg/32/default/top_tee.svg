@@ -5,10 +5,10 @@
 <path d="M28 5H7V6H17V18H18V6H28V5Z"/>
 </mask>
 <path d="M28 5H7V6H17V18H18V6H28V5Z" fill="#1F1F1F"/>
-<path d="M28 5H7V6H17V18H18V6H28V5Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_184_1567)"/>
+<path d="M28 5H7V6H17V18H18V6H28V5Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_184_1567)"/>
 </g>
 <defs>
-<filter id="filter0_d_184_1567" x="0" y="0" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_184_1567" x="-3.8147e-06" y="0" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>

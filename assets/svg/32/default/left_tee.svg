@@ -5,7 +5,7 @@
 <path d="M5 8L5 29L6 29L6 19L18 19L18 18L6 18L6 8L5 8Z"/>
 </mask>
 <path d="M5 8L5 29L6 29L6 19L18 19L18 18L6 18L6 8L5 8Z" fill="#1F1F1F"/>
-<path d="M5 8L5 29L6 29L6 19L18 19L18 18L6 18L6 8L5 8Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_184_1589)"/>
+<path d="M5 8L5 29L6 29L6 19L18 19L18 18L6 18L6 8L5 8Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_184_1589)"/>
 </g>
 <defs>
 <filter id="filter0_d_184_1589" x="0" y="0" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

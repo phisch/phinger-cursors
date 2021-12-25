@@ -3,7 +3,7 @@
 <mask id="path-1-inside-1_182_7071" fill="white">
 <path d="M21 11H15V15H11V21H15V25H21V21H25V15H21V11Z"/>
 </mask>
-<path d="M21 11H15V15H11V21H15V25H21V21H25V15H21V11Z" fill="#1F1F1F" stroke="white" stroke-opacity="0.9" stroke-width="2" mask="url(#path-1-inside-1_182_7071)"/>
+<path d="M21 11H15V15H11V21H15V25H21V21H25V15H21V11Z" fill="#1F1F1F" stroke="white" stroke-width="2" mask="url(#path-1-inside-1_182_7071)"/>
 </g>
 <defs>
 <filter id="filter0_d_182_7071" x="0" y="0" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

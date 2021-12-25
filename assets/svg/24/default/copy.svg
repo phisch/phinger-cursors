@@ -5,10 +5,9 @@
 <path d="M13 13.3L5 5L5 16.5L8 16L10.3 19L11 18.7L10.7 15L13 13.3Z"/>
 </mask>
 <path d="M13 13.3L5 5L5 16.5L8 16L10.3 19L11 18.7L10.7 15L13 13.3Z" fill="#1F1F1F"/>
-<path d="M13 13.3L5 5L5 16.5L8 16L10.3 19L11 18.7L10.7 15L13 13.3Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6977)"/>
-<circle cx="18.5" cy="18.5" r="4.5" fill="#44E45E"/>
-<circle cx="18.5" cy="18.5" r="5" stroke="white" stroke-opacity="0.9" stroke-linejoin="round"/>
-<path d="M19.0001 16H18.0001V18H16.0001V19H18.0001V21H19.0001V19H21.0001V18H19.0001V16Z" fill="white" fill-opacity="0.9"/>
+<path d="M13 13.3L5 5L5 16.5L8 16L10.3 19L11 18.7L10.7 15L13 13.3Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6977)"/>
+<circle cx="18.5" cy="18.5" r="5" fill="#44E45E" stroke="white" stroke-linejoin="round"/>
+<path d="M19.0001 16H18.0001V18H16.0001V19H18.0001V21H19.0001V19H21.0001V18H19.0001V16Z" fill="white"/>
 </g>
 <defs>
 <filter id="filter0_d_182_6977" x="0" y="0" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

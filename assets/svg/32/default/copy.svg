@@ -5,10 +5,9 @@
 <path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z"/>
 </mask>
 <path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z" fill="#1F1F1F"/>
-<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6980)"/>
-<circle cx="23.5" cy="23.5" r="5.5" fill="#44E45E"/>
-<circle cx="23.5" cy="23.5" r="6" stroke="white" stroke-opacity="0.9" stroke-linejoin="round"/>
-<path d="M24 20H23V23H20V24H23V27H24V24H27V23H24V20Z" fill="white" fill-opacity="0.9"/>
+<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6980)"/>
+<circle cx="23.5" cy="23.5" r="6" fill="#44E45E" stroke="white" stroke-linejoin="round"/>
+<path d="M24 20H23V23H20V24H23V27H24V24H27V23H24V20Z" fill="white"/>
 </g>
 <defs>
 <filter id="filter0_d_182_6980" x="0" y="0" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
