@@ -8,7 +8,7 @@
 <path d="M19 31L31 31L31 19L30 19L30 30L19 30L19 31Z" stroke="#1F1F1F" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_197_3570)"/>
 </g>
 <defs>
-<filter id="filter0_d_197_3570" x="0" y="0" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_197_3570" x="-1.52588e-05" y="0" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>
@@ -18,7 +18,7 @@
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_197_3570" result="shape"/>
 </filter>
 <clipPath id="clip0_197_3570">
-<rect width="32" height="32" fill="white" transform="translate(2 2)"/>
+<rect width="32" height="32" fill="white" transform="translate(1.99998 2)"/>
 </clipPath>
 </defs>
 </svg>

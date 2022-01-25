@@ -1,11 +1,11 @@
 <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_197_3427)">
-<mask id="path-1-outside-1_197_3427" maskUnits="userSpaceOnUse" x="4.19995" y="5" width="14" height="22" fill="black">
-<rect fill="white" x="4.19995" y="5" width="14" height="22"/>
-<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z"/>
+<mask id="path-1-outside-1_197_3427" maskUnits="userSpaceOnUse" x="3.19995" y="4" width="14" height="22" fill="black">
+<rect fill="white" x="3.19995" y="4" width="14" height="22"/>
+<path d="M16.2 16.8782L4.99995 5L4.99995 21.2437L8.99993 20.736L12.3999 25L13.2981 24.5913L12.9999 19.2132L16.2 16.8782Z"/>
 </mask>
-<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z" fill="white"/>
-<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z" stroke="#1F1F1F" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_197_3427)"/>
+<path d="M16.2 16.8782L4.99995 5L4.99995 21.2437L8.99993 20.736L12.3999 25L13.2981 24.5913L12.9999 19.2132L16.2 16.8782Z" fill="white"/>
+<path d="M16.2 16.8782L4.99995 5L4.99995 21.2437L8.99993 20.736L12.3999 25L13.2981 24.5913L12.9999 19.2132L16.2 16.8782Z" stroke="#1F1F1F" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_197_3427)"/>
 <mask id="path-2-outside-2_197_3427" maskUnits="userSpaceOnUse" x="19" y="20" width="9" height="7" fill="black">
 <rect fill="white" x="19" y="20" width="9" height="7"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M20 21.5C20 21.2239 20.2239 21 20.5 21H26.5C26.7761 21 27 21.2239 27 21.5C27 21.7761 26.7761 22 26.5 22H20.5C20.2239 22 20 21.7761 20 21.5ZM20 23.5C20 23.2239 20.2239 23 20.5 23H26.5C26.7761 23 27 23.2239 27 23.5C27 23.7761 26.7761 24 26.5 24H20.5C20.2239 24 20 23.7761 20 23.5ZM20.5 25C20.2239 25 20 25.2239 20 25.5C20 25.7761 20.2239 26 20.5 26H26.5C26.7761 26 27 25.7761 27 25.5C27 25.2239 26.7761 25 26.5 25H20.5Z"/>

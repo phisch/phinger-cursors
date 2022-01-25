@@ -1,13 +1,13 @@
 <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_197_3403)">
-<mask id="path-1-outside-1_197_3403" maskUnits="userSpaceOnUse" x="4.19995" y="5" width="14" height="22" fill="black">
-<rect fill="white" x="4.19995" y="5" width="14" height="22"/>
-<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z"/>
+<mask id="path-1-outside-1_197_3403" maskUnits="userSpaceOnUse" x="3.19995" y="4" width="14" height="22" fill="black">
+<rect fill="white" x="3.19995" y="4" width="14" height="22"/>
+<path d="M16.2 16.8782L4.99995 5L4.99995 21.2437L8.99993 20.736L12.3999 25L13.2981 24.5913L12.9999 19.2132L16.2 16.8782Z"/>
 </mask>
-<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z" fill="white"/>
-<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z" stroke="#1F1F1F" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_197_3403)"/>
-<circle cx="23.5" cy="23.5" r="6" fill="#44E45E" stroke="#1F1F1F" stroke-linejoin="round"/>
-<path d="M24 20H23V23H20V24H23V27H24V24H27V23H24V20Z" fill="#1F1F1F"/>
+<path d="M16.2 16.8782L4.99995 5L4.99995 21.2437L8.99993 20.736L12.3999 25L13.2981 24.5913L12.9999 19.2132L16.2 16.8782Z" fill="white"/>
+<path d="M16.2 16.8782L4.99995 5L4.99995 21.2437L8.99993 20.736L12.3999 25L13.2981 24.5913L12.9999 19.2132L16.2 16.8782Z" stroke="#1F1F1F" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_197_3403)"/>
+<circle cx="24.5" cy="24.5" r="7" fill="#68D56C" stroke="#1F1F1F" stroke-linejoin="round"/>
+<path d="M25 21H24V24H21V25H24V28H25V25H28V24H25V21Z" fill="#1F1F1F"/>
 </g>
 <defs>
 <filter id="filter0_d_197_3403" x="0" y="0" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

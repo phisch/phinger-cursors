@@ -6,8 +6,8 @@
 </mask>
 <path d="M13 13.3L5 5L5 16.5L8 16L10.3 19L11 18.7L10.7 15L13 13.3Z" fill="white"/>
 <path d="M13 13.3L5 5L5 16.5L8 16L10.3 19L11 18.7L10.7 15L13 13.3Z" stroke="#1F1F1F" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_197_3406)"/>
-<circle cx="18.5" cy="18.5" r="5" fill="#ED5E5E" stroke="#1F1F1F" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M20.8278 17.5864L17.5865 20.8278C18.4836 21.1793 19.5429 20.9927 20.2678 20.2678C20.9927 19.5429 21.1794 18.4836 20.8278 17.5864ZM19.4136 16.1722L16.1723 19.4136C15.8207 18.5164 16.0074 17.4571 16.7323 16.7322C17.4572 16.0073 18.5165 15.8207 19.4136 16.1722Z" fill="#1F1F1F"/>
+<circle cx="18.5" cy="18.5" r="5" fill="#FB5050" stroke="#1F1F1F" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20.8278 17.5864L17.5864 20.8278C18.4835 21.1793 19.5429 20.9927 20.2677 20.2678C20.9926 19.5429 21.1793 18.4836 20.8278 17.5864ZM19.4135 16.1722L16.1722 19.4136C15.8206 18.5164 16.0073 17.4571 16.7322 16.7322C17.4571 16.0073 18.5164 15.8207 19.4135 16.1722Z" fill="#1F1F1F"/>
 </g>
 <defs>
 <filter id="filter0_d_197_3406" x="0" y="0" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

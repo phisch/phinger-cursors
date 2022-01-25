@@ -1,13 +1,13 @@
 <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_197_3421)">
-<mask id="path-1-outside-1_197_3421" maskUnits="userSpaceOnUse" x="4.19995" y="5" width="14" height="22" fill="black">
-<rect fill="white" x="4.19995" y="5" width="14" height="22"/>
-<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z"/>
+<mask id="path-1-outside-1_197_3421" maskUnits="userSpaceOnUse" x="3.19995" y="4" width="14" height="22" fill="black">
+<rect fill="white" x="3.19995" y="4" width="14" height="22"/>
+<path d="M16.2 16.8782L4.99995 5L4.99995 21.2437L8.99993 20.736L12.3999 25L13.2981 24.5913L12.9999 19.2132L16.2 16.8782Z"/>
 </mask>
-<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z" fill="white"/>
-<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z" stroke="#1F1F1F" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_197_3421)"/>
-<circle cx="23.5" cy="23.5" r="6" fill="#44E45E" stroke="#1F1F1F" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M24 20L27.5 23.5L24 27L24 24.5H23.9863H22C21.4477 24.5 21 24.9477 21 25.5V26.872C20.1261 26.5631 19.5 25.7297 19.5 24.75C19.5 23.5074 20.5074 22.5 21.75 22.5H21.751L24 22.5L24 20Z" fill="#1F1F1F"/>
+<path d="M16.2 16.8782L4.99995 5L4.99995 21.2437L8.99993 20.736L12.3999 25L13.2981 24.5913L12.9999 19.2132L16.2 16.8782Z" fill="white"/>
+<path d="M16.2 16.8782L4.99995 5L4.99995 21.2437L8.99993 20.736L12.3999 25L13.2981 24.5913L12.9999 19.2132L16.2 16.8782Z" stroke="#1F1F1F" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_197_3421)"/>
+<circle cx="24.5" cy="24.5" r="7" fill="#68D56C" stroke="#1F1F1F" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M25 21L28.5 24.5L25 28L25 25.5H24.9863H23C22.4477 25.5 22 25.9477 22 26.5V27.872C21.1261 27.5631 20.5 26.7297 20.5 25.75C20.5 24.5074 21.5074 23.5 22.75 23.5H22.751L25 23.5L25 21Z" fill="#1F1F1F"/>
 </g>
 <defs>
 <filter id="filter0_d_197_3421" x="0" y="0" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

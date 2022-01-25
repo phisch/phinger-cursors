@@ -1,13 +1,13 @@
 <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_182_6986)">
-<mask id="path-1-outside-1_182_6986" maskUnits="userSpaceOnUse" x="4.19995" y="5" width="14" height="22" fill="black">
-<rect fill="white" x="4.19995" y="5" width="14" height="22"/>
-<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z"/>
+<mask id="path-1-outside-1_182_6986" maskUnits="userSpaceOnUse" x="3.19995" y="4" width="14" height="22" fill="black">
+<rect fill="white" x="3.19995" y="4" width="14" height="22"/>
+<path d="M16.2 16.8782L4.99995 5L4.99995 21.2437L8.99993 20.736L12.3999 25L13.2981 24.5913L12.9999 19.2132L16.2 16.8782Z"/>
 </mask>
-<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z" fill="#1F1F1F"/>
-<path d="M17.2 17.8782L5.99995 6L5.99995 22.2437L9.99993 21.736L13.3999 26L14.2981 25.5913L13.9999 20.2132L17.2 17.8782Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6986)"/>
-<circle cx="23.5" cy="23.5" r="6" fill="#ED5E5E" stroke="white" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M26.5795 21.8347L21.8347 26.5795C23.1612 27.2975 24.8537 27.096 25.9748 25.9749C27.096 24.8538 27.2975 23.1613 26.5795 21.8347ZM25.1652 20.4205L20.4205 25.1653C19.7024 23.8387 19.904 22.1463 21.0251 21.0251C22.1462 19.904 23.8387 19.7025 25.1652 20.4205Z" fill="white"/>
+<path d="M16.2 16.8782L4.99995 5L4.99995 21.2437L8.99993 20.736L12.3999 25L13.2981 24.5913L12.9999 19.2132L16.2 16.8782Z" fill="#1F1F1F"/>
+<path d="M16.2 16.8782L4.99995 5L4.99995 21.2437L8.99993 20.736L12.3999 25L13.2981 24.5913L12.9999 19.2132L16.2 16.8782Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6986)"/>
+<circle cx="24.5" cy="24.5" r="7" fill="#FB5050" stroke="white" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M27.5795 22.8347L22.8347 27.5795C24.1612 28.2975 25.8537 28.096 26.9748 26.9749C28.096 25.8538 28.2975 24.1613 27.5795 22.8347ZM26.1652 21.4205L21.4205 26.1653C20.7024 24.8387 20.904 23.1463 22.0251 22.0251C23.1462 20.904 24.8387 20.7025 26.1652 21.4205Z" fill="white"/>
 </g>
 <defs>
 <filter id="filter0_d_182_6986" x="0" y="0" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
