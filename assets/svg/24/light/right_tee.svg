@@ -1,14 +1,14 @@
-<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_197_3544)" filter="url(#filter0_d_197_3544)">
-<mask id="path-1-outside-1_197_3544" maskUnits="userSpaceOnUse" x="13" y="5" width="11" height="17" fill="black">
-<rect fill="white" x="13" y="5" width="11" height="17"/>
-<path d="M23 21L23 6L22 6L22 13L14 13L14 14L22 14L22 21L23 21Z"/>
+<mask id="path-1-outside-1_197_3544" maskUnits="userSpaceOnUse" x="11" y="3" width="11" height="17" fill="black">
+<rect fill="white" x="11" y="3" width="11" height="17"/>
+<path d="M21 19L21 4L20 4L20 11L12 11L12 12L20 12L20 19L21 19Z"/>
 </mask>
-<path d="M23 21L23 6L22 6L22 13L14 13L14 14L22 14L22 21L23 21Z" fill="white"/>
-<path d="M23 21L23 6L22 6L22 13L14 13L14 14L22 14L22 21L23 21Z" stroke="#1F1F1F" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_197_3544)"/>
+<path d="M21 19L21 4L20 4L20 11L12 11L12 12L20 12L20 19L21 19Z" fill="white"/>
+<path d="M21 19L21 4L20 4L20 11L12 11L12 12L20 12L20 19L21 19Z" stroke="#1F1F1F" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_197_3544)"/>
 </g>
 <defs>
-<filter id="filter0_d_197_3544" x="0" y="0" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_197_3544" x="-2" y="-2" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>
@@ -18,7 +18,7 @@
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_197_3544" result="shape"/>
 </filter>
 <clipPath id="clip0_197_3544">
-<rect width="24" height="24" fill="white" transform="translate(2 2)"/>
+<rect width="24" height="24" fill="white"/>
 </clipPath>
 </defs>
 </svg>

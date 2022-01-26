@@ -1,16 +1,16 @@
-<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_197_3418)">
-<mask id="path-1-outside-1_197_3418" maskUnits="userSpaceOnUse" x="4" y="4" width="10" height="16" fill="black">
-<rect fill="white" x="4" y="4" width="10" height="16"/>
-<path d="M13 13.3L5 5L5 16.5L8 16L10.3 19L11 18.7L10.7 15L13 13.3Z"/>
+<mask id="path-1-outside-1_197_3418" maskUnits="userSpaceOnUse" x="2" y="2" width="10" height="16" fill="black">
+<rect fill="white" x="2" y="2" width="10" height="16"/>
+<path d="M11 11.3L3 3L3 14.5L6 14L8.3 17L9 16.7L8.7 13L11 11.3Z"/>
 </mask>
-<path d="M13 13.3L5 5L5 16.5L8 16L10.3 19L11 18.7L10.7 15L13 13.3Z" fill="white"/>
-<path d="M13 13.3L5 5L5 16.5L8 16L10.3 19L11 18.7L10.7 15L13 13.3Z" stroke="#1F1F1F" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_197_3418)"/>
-<circle cx="18.5" cy="18.5" r="5" fill="#68D56C" stroke="#1F1F1F" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M19 15.5L22 18.5L19 21.5L19 19.5H17.5C16.9477 19.5 16.5 19.9477 16.5 20.5V21.2324C15.9022 20.8866 15.5 20.2403 15.5 19.5C15.5 18.3954 16.3954 17.5 17.5 17.5L19 17.5V15.5Z" fill="#1F1F1F"/>
+<path d="M11 11.3L3 3L3 14.5L6 14L8.3 17L9 16.7L8.7 13L11 11.3Z" fill="white"/>
+<path d="M11 11.3L3 3L3 14.5L6 14L8.3 17L9 16.7L8.7 13L11 11.3Z" stroke="#1F1F1F" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_197_3418)"/>
+<circle cx="16.5" cy="16.5" r="5" fill="#68D56C" stroke="#1F1F1F" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17 13.5L20 16.5L17 19.5L17 17.5H15.5C14.9477 17.5 14.5 17.9477 14.5 18.5V19.2324C13.9022 18.8866 13.5 18.2403 13.5 17.5C13.5 16.3954 14.3954 15.5 15.5 15.5L17 15.5V13.5Z" fill="#1F1F1F"/>
 </g>
 <defs>
-<filter id="filter0_d_197_3418" x="0" y="0" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_197_3418" x="-2" y="-2" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>

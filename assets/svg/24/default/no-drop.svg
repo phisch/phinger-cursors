@@ -1,16 +1,16 @@
-<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_182_6983)">
-<mask id="path-1-outside-1_182_6983" maskUnits="userSpaceOnUse" x="4" y="4" width="10" height="16" fill="black">
-<rect fill="white" x="4" y="4" width="10" height="16"/>
-<path d="M13 13.3L5 5L5 16.5L8 16L10.3 19L11 18.7L10.7 15L13 13.3Z"/>
+<mask id="path-1-outside-1_182_6983" maskUnits="userSpaceOnUse" x="2" y="2" width="10" height="16" fill="black">
+<rect fill="white" x="2" y="2" width="10" height="16"/>
+<path d="M11 11.3L3 3L3 14.5L6 14L8.3 17L9 16.7L8.7 13L11 11.3Z"/>
 </mask>
-<path d="M13 13.3L5 5L5 16.5L8 16L10.3 19L11 18.7L10.7 15L13 13.3Z" fill="#1F1F1F"/>
-<path d="M13 13.3L5 5L5 16.5L8 16L10.3 19L11 18.7L10.7 15L13 13.3Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6983)"/>
-<circle cx="18.5" cy="18.5" r="5" fill="#FB5050" stroke="white" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M20.8278 17.5864L17.5864 20.8278C18.4835 21.1793 19.5429 20.9927 20.2677 20.2678C20.9926 19.5429 21.1793 18.4836 20.8278 17.5864ZM19.4135 16.1722L16.1722 19.4136C15.8206 18.5164 16.0073 17.4571 16.7322 16.7322C17.4571 16.0073 18.5164 15.8207 19.4135 16.1722Z" fill="white"/>
+<path d="M11 11.3L3 3L3 14.5L6 14L8.3 17L9 16.7L8.7 13L11 11.3Z" fill="#1F1F1F"/>
+<path d="M11 11.3L3 3L3 14.5L6 14L8.3 17L9 16.7L8.7 13L11 11.3Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6983)"/>
+<circle cx="16.5" cy="16.5" r="5" fill="#FB5050" stroke="white" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.8278 15.5864L15.5864 18.8278C16.4835 19.1793 17.5429 18.9927 18.2677 18.2678C18.9926 17.5429 19.1793 16.4836 18.8278 15.5864ZM17.4135 14.1722L14.1722 17.4136C13.8206 16.5164 14.0073 15.4571 14.7322 14.7322C15.4571 14.0073 16.5164 13.8207 17.4135 14.1722Z" fill="white"/>
 </g>
 <defs>
-<filter id="filter0_d_182_6983" x="0" y="0" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_182_6983" x="-2" y="-2" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>

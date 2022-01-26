@@ -1,23 +1,23 @@
-<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_182_7077)">
-<mask id="path-1-outside-1_182_7077" maskUnits="userSpaceOnUse" x="4" y="4" width="19" height="19" fill="black">
-<rect fill="white" x="4" y="4" width="19" height="19"/>
-<path d="M13 5V11H14V5H13Z"/>
-<path d="M16 14V13H22V14H16Z"/>
-<path d="M13 16H14V22H13V16Z"/>
-<path d="M5 14H11V13H5V14Z"/>
+<mask id="path-1-outside-1_182_7077" maskUnits="userSpaceOnUse" x="2" y="2" width="19" height="19" fill="black">
+<rect fill="white" x="2" y="2" width="19" height="19"/>
+<path d="M11 3V9H12V3H11Z"/>
+<path d="M14 12V11H20V12H14Z"/>
+<path d="M11 14H12V20H11V14Z"/>
+<path d="M3 12H9V11H3V12Z"/>
 </mask>
-<path d="M13 5V11H14V5H13Z" fill="#1F1F1F"/>
-<path d="M16 14V13H22V14H16Z" fill="#1F1F1F"/>
-<path d="M13 16H14V22H13V16Z" fill="#1F1F1F"/>
-<path d="M5 14H11V13H5V14Z" fill="#1F1F1F"/>
-<path d="M13 5V11H14V5H13Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
-<path d="M16 14V13H22V14H16Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
-<path d="M13 16H14V22H13V16Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
-<path d="M5 14H11V13H5V14Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
+<path d="M11 3V9H12V3H11Z" fill="#1F1F1F"/>
+<path d="M14 12V11H20V12H14Z" fill="#1F1F1F"/>
+<path d="M11 14H12V20H11V14Z" fill="#1F1F1F"/>
+<path d="M3 12H9V11H3V12Z" fill="#1F1F1F"/>
+<path d="M11 3V9H12V3H11Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
+<path d="M14 12V11H20V12H14Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
+<path d="M11 14H12V20H11V14Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
+<path d="M3 12H9V11H3V12Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_7077)"/>
 </g>
 <defs>
-<filter id="filter0_d_182_7077" x="0" y="0" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_182_7077" x="-2" y="-2" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>

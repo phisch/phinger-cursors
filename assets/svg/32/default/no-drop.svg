@@ -1,16 +1,16 @@
-<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_182_6986)">
-<mask id="path-1-outside-1_182_6986" maskUnits="userSpaceOnUse" x="3.19995" y="4" width="14" height="22" fill="black">
-<rect fill="white" x="3.19995" y="4" width="14" height="22"/>
-<path d="M16.2 16.8782L4.99995 5L4.99995 21.2437L8.99993 20.736L12.3999 25L13.2981 24.5913L12.9999 19.2132L16.2 16.8782Z"/>
+<mask id="path-1-outside-1_182_6986" maskUnits="userSpaceOnUse" x="1.19995" y="2" width="14" height="22" fill="black">
+<rect fill="white" x="1.19995" y="2" width="14" height="22"/>
+<path d="M14.2 14.8782L2.99995 3L2.99995 19.2437L6.99993 18.736L10.3999 23L11.2981 22.5913L10.9999 17.2132L14.2 14.8782Z"/>
 </mask>
-<path d="M16.2 16.8782L4.99995 5L4.99995 21.2437L8.99993 20.736L12.3999 25L13.2981 24.5913L12.9999 19.2132L16.2 16.8782Z" fill="#1F1F1F"/>
-<path d="M16.2 16.8782L4.99995 5L4.99995 21.2437L8.99993 20.736L12.3999 25L13.2981 24.5913L12.9999 19.2132L16.2 16.8782Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6986)"/>
-<circle cx="24.5" cy="24.5" r="7" fill="#FB5050" stroke="white" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M27.5795 22.8347L22.8347 27.5795C24.1612 28.2975 25.8537 28.096 26.9748 26.9749C28.096 25.8538 28.2975 24.1613 27.5795 22.8347ZM26.1652 21.4205L21.4205 26.1653C20.7024 24.8387 20.904 23.1463 22.0251 22.0251C23.1462 20.904 24.8387 20.7025 26.1652 21.4205Z" fill="white"/>
+<path d="M14.2 14.8782L2.99995 3L2.99995 19.2437L6.99993 18.736L10.3999 23L11.2981 22.5913L10.9999 17.2132L14.2 14.8782Z" fill="#1F1F1F"/>
+<path d="M14.2 14.8782L2.99995 3L2.99995 19.2437L6.99993 18.736L10.3999 23L11.2981 22.5913L10.9999 17.2132L14.2 14.8782Z" stroke="white" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_182_6986)"/>
+<circle cx="22.5" cy="22.5" r="7" fill="#FB5050" stroke="white" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M25.5795 20.8347L20.8347 25.5795C22.1612 26.2975 23.8537 26.096 24.9748 24.9749C26.096 23.8538 26.2975 22.1613 25.5795 20.8347ZM24.1652 19.4205L19.4205 24.1653C18.7024 22.8387 18.904 21.1463 20.0251 20.0251C21.1462 18.904 22.8387 18.7025 24.1652 19.4205Z" fill="white"/>
 </g>
 <defs>
-<filter id="filter0_d_182_6986" x="0" y="0" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_182_6986" x="-2" y="-2" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>

@@ -1,14 +1,14 @@
-<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_197_3506)" filter="url(#filter0_d_197_3506)">
-<mask id="path-1-outside-1_197_3506" maskUnits="userSpaceOnUse" x="6" y="13" width="24" height="10" fill="black">
-<rect fill="white" x="6" y="13" width="24" height="10"/>
-<path d="M7 18L15.5 22L16.5 19L29 18.5L29 17.5L16.5 17L15.5 14L7 18Z"/>
+<mask id="path-1-outside-1_197_3506" maskUnits="userSpaceOnUse" x="4" y="11" width="24" height="10" fill="black">
+<rect fill="white" x="4" y="11" width="24" height="10"/>
+<path d="M5 16L13.5 20L14.5 17L27 16.5L27 15.5L14.5 15L13.5 12L5 16Z"/>
 </mask>
-<path d="M7 18L15.5 22L16.5 19L29 18.5L29 17.5L16.5 17L15.5 14L7 18Z" fill="white"/>
-<path d="M7 18L15.5 22L16.5 19L29 18.5L29 17.5L16.5 17L15.5 14L7 18Z" stroke="#1F1F1F" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_197_3506)"/>
+<path d="M5 16L13.5 20L14.5 17L27 16.5L27 15.5L14.5 15L13.5 12L5 16Z" fill="white"/>
+<path d="M5 16L13.5 20L14.5 17L27 16.5L27 15.5L14.5 15L13.5 12L5 16Z" stroke="#1F1F1F" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_197_3506)"/>
 </g>
 <defs>
-<filter id="filter0_d_197_3506" x="0" y="0" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_197_3506" x="-2" y="-2" width="36" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>
@@ -18,7 +18,7 @@
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_197_3506" result="shape"/>
 </filter>
 <clipPath id="clip0_197_3506">
-<rect width="32" height="32" fill="white" transform="translate(2 2)"/>
+<rect width="32" height="32" fill="white"/>
 </clipPath>
 </defs>
 </svg>
