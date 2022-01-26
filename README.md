@@ -40,12 +40,6 @@ gtk-cursor-theme-name=phinger-cursors-light
 
 You might have a settings application installed that can do this for you, but I' rather describe how to do this by manually in case you don't have one installed.
 
-### Distro repositories
-
-At the time of writing this, phinger-cursors are not yet part of any major distro repos. So you are not yet able to install this through your favourite package manager.
-
-Hopefully this will change soon enough to make installation easier.
-
 ## How it's made
 
 Phinger-cursors are designed in a [Figma](https://www.figma.com) document. Check out the [multi-page Figma document](https://www.figma.com/file/zU99op23bu3Cg438YkhZy8/phinger-cursors) used by this repository.
