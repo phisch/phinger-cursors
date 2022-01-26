@@ -10,7 +10,7 @@ jobs:
 
       - name: Generate variants and assets from Figma file
         id: figma_cursor_theme
-        uses: phisch/figma-cursor-theme-action@v1.0
+        uses: phisch/figma-cursor-theme-action@v1.1
         with:
           figma_access_token: ${{ secrets.FIGMA_ACCESS_TOKEN }}
           figma_file_key: ${{ secrets.FIGMA_FILE_KEY }}
