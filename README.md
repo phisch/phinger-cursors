@@ -6,14 +6,24 @@ Say hello to your new cursor theme. Phinger cursors is most likely the most over
 
 ## How to install
 
-Download [phinger-cursors-variants.tar.bz2](https://github.com/phisch/phinger-cursors/releases/latest/download/phinger-cursors-variants.tar.bz2) from the latest release, or any other [release](https://github.com/phisch/phinger-cursors/releases).
+If you are on Arch linux, you can install the AUR package [phinger-cursors](https://aur.archlinux.org/packages/phinger-cursors).
 
-And extract it into your users `~/.icons` directory:
+Other distros currently don't yet have phinger-cursors in their repositories. So please install manually, as descibed below.
+
+### By hand
+
+For a manual installation, download and extract the [latest release](https://github.com/phisch/phinger-cursors/releases/latest/download/phinger-cursors-variants.tar.bz2) into the `~/.icons` directory.
+
 ```sh
-tar -xf phinger-cursors-variants.tar.bz2 -C ~/.icons
+wget -cO- https://github.com/phisch/phinger-cursors/releases/latest/download/phinger-cursors-variants.tar.bz2 | tar xfj - -C ~/.icons
 ```
 
+This installs the cursor theme for your current user. To install for all users, extract into `/usr/share/icons` instead.
+
+## How to enable
+
 Enable your prefered variant (`phinger-cursors` or `phinger-cursors-light`) inside `~/.icons/default/index.theme`:
+
 ```ini
 [Icon Theme]
 Name=Default
@@ -22,10 +32,13 @@ Inherits=phinger-cursors-light
 ```
 
 And finally, enable it for GTK applications in your `~/.config/gtk-3.0/settings.ini`:
+
 ```ini
 [Settings]
 gtk-cursor-theme-name=phinger-cursors-light
 ```
+
+You might have a settings application installed that can do this for you, but I' rather describe how to do this by manually in case you don't have one installed.
 
 ### Distro repositories
 
@@ -88,4 +101,4 @@ I can't let people contribute to the Figma document directly, but I will listen 
 
 ## Support
 
-If you really enjoy this project, sponsor me a pizza. 
+If you really enjoy this project, [sponsor me](https://github.com/sponsors/phisch) a pizza.
