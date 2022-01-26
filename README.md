@@ -10,7 +10,7 @@ If you are on Arch linux, you can install the AUR package [phinger-cursors](http
 
 Other distros currently don't yet have phinger-cursors in their repositories. So please install manually, as descibed below.
 
-### By hand
+### Manually
 
 For a manual installation, download and extract the [latest release](https://github.com/phisch/phinger-cursors/releases/latest/download/phinger-cursors-variants.tar.bz2) into the `~/.icons` directory.
 
@@ -21,6 +21,10 @@ wget -cO- https://github.com/phisch/phinger-cursors/releases/latest/download/phi
 This installs the cursor theme for your current user. To install for all users, extract into `/usr/share/icons` instead.
 
 ## How to enable
+
+You might have a settings application installed that can do this for you like [Gnome Tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks) or [lxappearance](https://wiki.lxde.org/en/LXAppearance). If you don't, enable the cursor theme as descibed below.
+
+### Manually
 
 Enable your prefered variant (`phinger-cursors` or `phinger-cursors-light`) inside `~/.icons/default/index.theme`:
 
@@ -38,7 +42,25 @@ And finally, enable it for GTK applications in your `~/.config/gtk-3.0/settings.
 gtk-cursor-theme-name=phinger-cursors-light
 ```
 
-You might have a settings application installed that can do this for you, but I' rather describe how to do this by manually in case you don't have one installed.
+## How to change cursor size
+
+The available cursor sizes are `24`, `32`, `48`, `64`, `96` and `128`. How to change it depends on your current environment.
+
+### GNOME, MATE, XFCE
+
+Run the following command and replace `CURSOR_SIZE` with your prefered one:
+
+- on GNOME: `gsettings set org.gnome.desktop.interface cursor-size CURSOR_SIZE`
+- on MATE: `gsettings set org.mate.peripherals-mouse CURSOR_SIZE`
+- on XFCE: `xfconf-query --channel xsettings --property /Gtk/CursorThemeSize --set CURSOR_SIZE`
+
+### Xresources
+
+Add this line to your `~/.Xresources` and replace `CURSOR_SIZE` with your prefered one:
+
+```sh
+Xcursor.size: CURSOR_SIZE
+```
 
 ## How it's made
 
