@@ -43,6 +43,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
       - name: Build Cursor Theme
         uses: phisch/cursor-theme-builder/action/build@v1.0
         with:
