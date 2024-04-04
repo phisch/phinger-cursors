@@ -1,0 +1,31 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="cursor=copy, variant=light, size=32" clip-path="url(#clip0_2320_8719)">
+<g id="cursor">
+<g id="cursor_2">
+<mask id="path-1-outside-1_2320_8719" maskUnits="userSpaceOnUse" x="0" y="0" width="15" height="25" fill="black">
+<rect fill="white" width="15" height="25"/>
+<path d="M1 19.5V1L14 14.5L10 17L10.5 23L9.5 23.5L5.5 19L1 19.5Z"/>
+</mask>
+<path d="M1 19.5V1L14 14.5L10 17L10.5 23L9.5 23.5L5.5 19L1 19.5Z" fill="#FBFBFB"/>
+<path d="M1 19.5V1L14 14.5L10 17L10.5 23L9.5 23.5L5.5 19L1 19.5Z" stroke="black" stroke-opacity="0.6" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_8719)"/>
+</g>
+</g>
+<g id="badge">
+<path id="shape" d="M16 22.9248C16 17.2222 17.2222 16 22.9248 16H25.0752C30.7778 16 32 17.2222 32 22.9248V25.0752C32 30.7778 30.7778 32 25.0752 32H22.9248C17.2222 32 16 30.7778 16 25.0752V22.9248Z" fill="#29CC52"/>
+<g id="icon">
+<path id="icon_2" d="M20 24H24M24 24H28M24 24V20M24 24V28" stroke="#FBFBFB" stroke-width="2"/>
+</g>
+</g>
+<g id="hotspot" clip-path="url(#clip1_2320_8719)">
+<rect id="center" opacity="0.5" width="1" height="1" fill="#FF3DFF"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2320_8719">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+<clipPath id="clip1_2320_8719">
+<rect width="1" height="1" fill="white"/>
+</clipPath>
+</defs>
+</svg>

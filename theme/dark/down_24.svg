@@ -1,0 +1,25 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="cursor=down, variant=dark, size=24" clip-path="url(#clip0_2320_9346)">
+<g id="arrow">
+<g id="arrow_2">
+<mask id="path-1-outside-1_2320_9346" maskUnits="userSpaceOnUse" x="7" y="3" width="11" height="18" fill="black">
+<rect fill="white" x="7" y="3" width="11" height="18"/>
+<path d="M12.5 20L17 13L14 12L13 4L12 4L11 12L8 13L12.5 20Z"/>
+</mask>
+<path d="M12.5 20L17 13L14 12L13 4L12 4L11 12L8 13L12.5 20Z" fill="#0D0D0D"/>
+<path d="M12.5 20L17 13L14 12L13 4L12 4L11 12L8 13L12.5 20Z" stroke="white" stroke-opacity="0.6" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_9346)"/>
+</g>
+</g>
+<g id="hotspot" clip-path="url(#clip1_2320_9346)">
+<rect id="center" opacity="0.5" x="12" y="20" width="1" height="1" fill="#FF3DFF"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2320_9346">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+<clipPath id="clip1_2320_9346">
+<rect width="1" height="1" fill="white" transform="translate(12 20)"/>
+</clipPath>
+</defs>
+</svg>

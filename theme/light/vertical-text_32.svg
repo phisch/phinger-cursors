@@ -1,0 +1,25 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="cursor=vertical-text, variant=light, size=32" clip-path="url(#clip0_2320_8705)">
+<g id="text cursor">
+<g id="text cursor_2">
+<mask id="path-1-outside-1_2320_8705" maskUnits="userSpaceOnUse" x="5" y="11" width="23" height="9" fill="black">
+<rect fill="white" x="5" y="11" width="23" height="9"/>
+<path d="M26 19L27 19L27 16.5C27 16.5 27 15.5 26.25 15.5C27 15.5 27 14.5 27 14.5L27 12L26 12L26 14C26 14 26 15 25 15L8 15.0001C7 15.0001 7 14.0001 7 14.0001L7.00001 12L6.00001 12L6 14.5C6 14.5 6 15.5 6.75 15.5C6 15.5 6 16.5 6 16.5L6 19L7 19L7 17C7 17 7 16.0001 8 16.0001L25 16C26 16 26 17 26 17L26 19Z"/>
+</mask>
+<path d="M26 19L27 19L27 16.5C27 16.5 27 15.5 26.25 15.5C27 15.5 27 14.5 27 14.5L27 12L26 12L26 14C26 14 26 15 25 15L8 15.0001C7 15.0001 7 14.0001 7 14.0001L7.00001 12L6.00001 12L6 14.5C6 14.5 6 15.5 6.75 15.5C6 15.5 6 16.5 6 16.5L6 19L7 19L7 17C7 17 7 16.0001 8 16.0001L25 16C26 16 26 17 26 17L26 19Z" fill="#FBFBFB"/>
+<path d="M26 19L27 19L27 16.5C27 16.5 27 15.5 26.25 15.5C27 15.5 27 14.5 27 14.5L27 12L26 12L26 14C26 14 26 15 25 15L8 15.0001C7 15.0001 7 14.0001 7 14.0001L7.00001 12L6.00001 12L6 14.5C6 14.5 6 15.5 6.75 15.5C6 15.5 6 16.5 6 16.5L6 19L7 19L7 17C7 17 7 16.0001 8 16.0001L25 16C26 16 26 17 26 17L26 19Z" stroke="black" stroke-opacity="0.6" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_8705)"/>
+</g>
+</g>
+<g id="hotspot" clip-path="url(#clip1_2320_8705)">
+<rect id="center" opacity="0.5" x="16" y="15" width="1" height="1" fill="#FF3DFF"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2320_8705">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+<clipPath id="clip1_2320_8705">
+<rect width="1" height="1" fill="white" transform="translate(16 15)"/>
+</clipPath>
+</defs>
+</svg>

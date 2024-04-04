@@ -1,0 +1,1491 @@
+{
+  "name": "Phinger Cursors",
+  "variants": [
+    {
+      "name": "light",
+      "cursors": [
+        {
+          "name": "copy",
+          "sprites": [
+            {
+              "file": "light/copy_24.svg",
+              "flips": [
+                "svg",
+                "#icon"
+              ]
+            },
+            {
+              "file": "light/copy_32.svg",
+              "flips": [
+                "svg",
+                "#icon"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "pointer",
+          "sprites": [
+            {
+              "file": "light/pointer_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "light/pointer_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ],
+          "aliases": [
+            "hand2"
+          ]
+        },
+        {
+          "name": "n-resize",
+          "sprites": [
+            {
+              "file": "light/n-resize_24.svg"
+            },
+            {
+              "file": "light/n-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "top_side"
+          ]
+        },
+        {
+          "name": "crosshair",
+          "sprites": [
+            {
+              "file": "light/crosshair_24.svg"
+            },
+            {
+              "file": "light/crosshair_32.svg"
+            }
+          ],
+          "aliases": [
+            "cross",
+            "cross_reverse",
+            "diamond_cross",
+            "tcross"
+          ]
+        },
+        {
+          "name": "zoom-in",
+          "sprites": [
+            {
+              "file": "light/zoom-in_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "light/zoom-in_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "skull",
+          "sprites": [
+            {
+              "file": "light/skull_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "light/skull_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "default",
+          "sprites": [
+            {
+              "file": "light/default_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "light/default_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ],
+          "aliases": [
+            "arrow",
+            "left_ptr",
+            "top_left_arrow"
+          ]
+        },
+        {
+          "name": "context-menu",
+          "sprites": [
+            {
+              "file": "light/context-menu_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "light/context-menu_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "help",
+          "sprites": [
+            {
+              "file": "light/help_24.svg",
+              "flips": [
+                "svg",
+                "#icon"
+              ]
+            },
+            {
+              "file": "light/help_32.svg",
+              "flips": [
+                "svg",
+                "#icon"
+              ]
+            }
+          ],
+          "aliases": [
+            "question_arrow"
+          ]
+        },
+        {
+          "name": "progress",
+          "sprites": [
+            {
+              "file": "light/progress_24.svg",
+              "animations": [
+                {
+                  "selector": "#spinner",
+                  "instructions": [
+                    {
+                      "name": "animate",
+                      "args": {
+                        "duration": 1500,
+                        "ease": "in-out-cubic"
+                      }
+                    },
+                    {
+                      "name": "rotate",
+                      "args": {
+                        "degrees": 720
+                      }
+                    }
+                  ]
+                }
+              ],
+              "flips": [
+                "svg",
+                "#spinner"
+              ]
+            },
+            {
+              "file": "light/progress_32.svg",
+              "animations": [
+                {
+                  "selector": "#spinner",
+                  "instructions": [
+                    {
+                      "name": "animate",
+                      "args": {
+                        "duration": 1500,
+                        "ease": "in-out-cubic"
+                      }
+                    },
+                    {
+                      "name": "rotate",
+                      "args": {
+                        "degrees": 720
+                      }
+                    }
+                  ]
+                }
+              ],
+              "flips": [
+                "svg",
+                "#spinner"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "wait",
+          "sprites": [
+            {
+              "file": "light/wait_24.svg",
+              "animations": [
+                {
+                  "selector": "#spinner",
+                  "instructions": [
+                    {
+                      "name": "animate",
+                      "args": {
+                        "duration": 1500,
+                        "ease": "in-out-cubic"
+                      }
+                    },
+                    {
+                      "name": "rotate",
+                      "args": {
+                        "degrees": 720
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "file": "light/wait_32.svg",
+              "animations": [
+                {
+                  "selector": "#spinner",
+                  "instructions": [
+                    {
+                      "name": "animate",
+                      "args": {
+                        "duration": 1500,
+                        "ease": "in-out-cubic"
+                      }
+                    },
+                    {
+                      "name": "rotate",
+                      "args": {
+                        "degrees": 720
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "aliases": [
+            "watch"
+          ]
+        },
+        {
+          "name": "cell",
+          "sprites": [
+            {
+              "file": "light/cell_24.svg"
+            },
+            {
+              "file": "light/cell_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "text",
+          "sprites": [
+            {
+              "file": "light/text_24.svg"
+            },
+            {
+              "file": "light/text_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "vertical-text",
+          "sprites": [
+            {
+              "file": "light/vertical-text_24.svg"
+            },
+            {
+              "file": "light/vertical-text_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "alias",
+          "sprites": [
+            {
+              "file": "light/alias_24.svg",
+              "flips": [
+                "svg",
+                "#icon"
+              ]
+            },
+            {
+              "file": "light/alias_32.svg",
+              "flips": [
+                "svg",
+                "#icon"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "move",
+          "sprites": [
+            {
+              "file": "light/move_24.svg"
+            },
+            {
+              "file": "light/move_32.svg"
+            }
+          ],
+          "aliases": [
+            "fleur"
+          ]
+        },
+        {
+          "name": "no-drop",
+          "sprites": [
+            {
+              "file": "light/no-drop_24.svg",
+              "flips": [
+                "svg",
+                "#icon"
+              ]
+            },
+            {
+              "file": "light/no-drop_32.svg",
+              "flips": [
+                "svg",
+                "#icon"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "not-allowed",
+          "sprites": [
+            {
+              "file": "light/not-allowed_24.svg"
+            },
+            {
+              "file": "light/not-allowed_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "grab",
+          "sprites": [
+            {
+              "file": "light/grab_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "light/grab_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ],
+          "aliases": [
+            "hand1"
+          ]
+        },
+        {
+          "name": "grabbing",
+          "sprites": [
+            {
+              "file": "light/grabbing_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "light/grabbing_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "e-resize",
+          "sprites": [
+            {
+              "file": "light/e-resize_24.svg"
+            },
+            {
+              "file": "light/e-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "right_side"
+          ]
+        },
+        {
+          "name": "ne-resize",
+          "sprites": [
+            {
+              "file": "light/ne-resize_24.svg"
+            },
+            {
+              "file": "light/ne-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "top_right_corner"
+          ]
+        },
+        {
+          "name": "nw-resize",
+          "sprites": [
+            {
+              "file": "light/nw-resize_24.svg"
+            },
+            {
+              "file": "light/nw-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "top_left_corner"
+          ]
+        },
+        {
+          "name": "s-resize",
+          "sprites": [
+            {
+              "file": "light/s-resize_24.svg"
+            },
+            {
+              "file": "light/s-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "bottom_side"
+          ]
+        },
+        {
+          "name": "se-resize",
+          "sprites": [
+            {
+              "file": "light/se-resize_24.svg"
+            },
+            {
+              "file": "light/se-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "bottom_right_corner"
+          ]
+        },
+        {
+          "name": "sw-resize",
+          "sprites": [
+            {
+              "file": "light/sw-resize_24.svg"
+            },
+            {
+              "file": "light/sw-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "bottom_left_corner"
+          ]
+        },
+        {
+          "name": "w-resize",
+          "sprites": [
+            {
+              "file": "light/w-resize_24.svg"
+            },
+            {
+              "file": "light/w-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "left_side"
+          ]
+        },
+        {
+          "name": "ew-resize",
+          "sprites": [
+            {
+              "file": "light/ew-resize_24.svg"
+            },
+            {
+              "file": "light/ew-resize_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "ns-resize",
+          "sprites": [
+            {
+              "file": "light/ns-resize_24.svg"
+            },
+            {
+              "file": "light/ns-resize_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "nesw-resize",
+          "sprites": [
+            {
+              "file": "light/nesw-resize_24.svg"
+            },
+            {
+              "file": "light/nesw-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "fd_double_arrow"
+          ]
+        },
+        {
+          "name": "nwse-resize",
+          "sprites": [
+            {
+              "file": "light/nwse-resize_24.svg"
+            },
+            {
+              "file": "light/nwse-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "bd_double_arrow"
+          ]
+        },
+        {
+          "name": "col-resize",
+          "sprites": [
+            {
+              "file": "light/col-resize_24.svg"
+            },
+            {
+              "file": "light/col-resize_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "row-resize",
+          "sprites": [
+            {
+              "file": "light/row-resize_24.svg"
+            },
+            {
+              "file": "light/row-resize_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "all-scroll",
+          "sprites": [
+            {
+              "file": "light/all-scroll_24.svg"
+            },
+            {
+              "file": "light/all-scroll_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "zoom-out",
+          "sprites": [
+            {
+              "file": "light/zoom-out_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "light/zoom-out_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "middle_finger",
+          "sprites": [
+            {
+              "file": "light/middle_finger_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "light/middle_finger_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "rock_and_roll",
+          "sprites": [
+            {
+              "file": "light/rock_and_roll_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "light/rock_and_roll_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "up",
+          "sprites": [
+            {
+              "file": "light/up_24.svg"
+            },
+            {
+              "file": "light/up_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "right",
+          "sprites": [
+            {
+              "file": "light/right_24.svg"
+            },
+            {
+              "file": "light/right_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "down",
+          "sprites": [
+            {
+              "file": "light/down_24.svg"
+            },
+            {
+              "file": "light/down_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "left",
+          "sprites": [
+            {
+              "file": "light/left_24.svg"
+            },
+            {
+              "file": "light/left_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "pen",
+          "sprites": [
+            {
+              "file": "light/pen_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "light/pen_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "pencil",
+          "sprites": [
+            {
+              "file": "light/pencil_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "light/pencil_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "pipette",
+          "sprites": [
+            {
+              "file": "light/pipette_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "light/pipette_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dark",
+      "cursors": [
+        {
+          "name": "default",
+          "sprites": [
+            {
+              "file": "dark/default_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "dark/default_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ],
+          "aliases": [
+            "arrow",
+            "left_ptr",
+            "top_left_arrow"
+          ]
+        },
+        {
+          "name": "context-menu",
+          "sprites": [
+            {
+              "file": "dark/context-menu_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "dark/context-menu_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "help",
+          "sprites": [
+            {
+              "file": "dark/help_24.svg",
+              "flips": [
+                "svg",
+                "#icon"
+              ]
+            },
+            {
+              "file": "dark/help_32.svg",
+              "flips": [
+                "svg",
+                "#icon"
+              ]
+            }
+          ],
+          "aliases": [
+            "question_arrow"
+          ]
+        },
+        {
+          "name": "pointer",
+          "sprites": [
+            {
+              "file": "dark/pointer_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "dark/pointer_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ],
+          "aliases": [
+            "hand2"
+          ]
+        },
+        {
+          "name": "progress",
+          "sprites": [
+            {
+              "file": "dark/progress_24.svg",
+              "animations": [
+                {
+                  "selector": "#spinner",
+                  "instructions": [
+                    {
+                      "name": "animate",
+                      "args": {
+                        "duration": 1500,
+                        "ease": "in-out-cubic"
+                      }
+                    },
+                    {
+                      "name": "rotate",
+                      "args": {
+                        "degrees": 720
+                      }
+                    }
+                  ]
+                }
+              ],
+              "flips": [
+                "svg",
+                "#spinner"
+              ]
+            },
+            {
+              "file": "dark/progress_32.svg",
+              "animations": [
+                {
+                  "selector": "#spinner",
+                  "instructions": [
+                    {
+                      "name": "animate",
+                      "args": {
+                        "duration": 1500,
+                        "ease": "in-out-cubic"
+                      }
+                    },
+                    {
+                      "name": "rotate",
+                      "args": {
+                        "degrees": 720
+                      }
+                    }
+                  ]
+                }
+              ],
+              "flips": [
+                "svg",
+                "#spinner"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "wait",
+          "sprites": [
+            {
+              "file": "dark/wait_24.svg",
+              "animations": [
+                {
+                  "selector": "#spinner",
+                  "instructions": [
+                    {
+                      "name": "animate",
+                      "args": {
+                        "duration": 1500,
+                        "ease": "in-out-cubic"
+                      }
+                    },
+                    {
+                      "name": "rotate",
+                      "args": {
+                        "degrees": 720
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "file": "dark/wait_32.svg",
+              "animations": [
+                {
+                  "selector": "#spinner",
+                  "instructions": [
+                    {
+                      "name": "animate",
+                      "args": {
+                        "duration": 1500,
+                        "ease": "in-out-cubic"
+                      }
+                    },
+                    {
+                      "name": "rotate",
+                      "args": {
+                        "degrees": 720
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "aliases": [
+            "watch"
+          ]
+        },
+        {
+          "name": "cell",
+          "sprites": [
+            {
+              "file": "dark/cell_24.svg"
+            },
+            {
+              "file": "dark/cell_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "crosshair",
+          "sprites": [
+            {
+              "file": "dark/crosshair_24.svg"
+            },
+            {
+              "file": "dark/crosshair_32.svg"
+            }
+          ],
+          "aliases": [
+            "cross",
+            "cross_reverse",
+            "diamond_cross",
+            "tcross"
+          ]
+        },
+        {
+          "name": "text",
+          "sprites": [
+            {
+              "file": "dark/text_24.svg"
+            },
+            {
+              "file": "dark/text_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "vertical-text",
+          "sprites": [
+            {
+              "file": "dark/vertical-text_24.svg"
+            },
+            {
+              "file": "dark/vertical-text_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "alias",
+          "sprites": [
+            {
+              "file": "dark/alias_24.svg",
+              "flips": [
+                "svg",
+                "#icon"
+              ]
+            },
+            {
+              "file": "dark/alias_32.svg",
+              "flips": [
+                "svg",
+                "#icon"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "copy",
+          "sprites": [
+            {
+              "file": "dark/copy_24.svg",
+              "flips": [
+                "svg",
+                "#icon"
+              ]
+            },
+            {
+              "file": "dark/copy_32.svg",
+              "flips": [
+                "svg",
+                "#icon"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "move",
+          "sprites": [
+            {
+              "file": "dark/move_24.svg"
+            },
+            {
+              "file": "dark/move_32.svg"
+            }
+          ],
+          "aliases": [
+            "fleur"
+          ]
+        },
+        {
+          "name": "no-drop",
+          "sprites": [
+            {
+              "file": "dark/no-drop_24.svg",
+              "flips": [
+                "svg",
+                "#icon"
+              ]
+            },
+            {
+              "file": "dark/no-drop_32.svg",
+              "flips": [
+                "svg",
+                "#icon"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "not-allowed",
+          "sprites": [
+            {
+              "file": "dark/not-allowed_24.svg"
+            },
+            {
+              "file": "dark/not-allowed_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "grab",
+          "sprites": [
+            {
+              "file": "dark/grab_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "dark/grab_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ],
+          "aliases": [
+            "hand1"
+          ]
+        },
+        {
+          "name": "grabbing",
+          "sprites": [
+            {
+              "file": "dark/grabbing_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "dark/grabbing_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "e-resize",
+          "sprites": [
+            {
+              "file": "dark/e-resize_24.svg"
+            },
+            {
+              "file": "dark/e-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "right_side"
+          ]
+        },
+        {
+          "name": "n-resize",
+          "sprites": [
+            {
+              "file": "dark/n-resize_24.svg"
+            },
+            {
+              "file": "dark/n-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "top_side"
+          ]
+        },
+        {
+          "name": "ne-resize",
+          "sprites": [
+            {
+              "file": "dark/ne-resize_24.svg"
+            },
+            {
+              "file": "dark/ne-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "top_right_corner"
+          ]
+        },
+        {
+          "name": "nw-resize",
+          "sprites": [
+            {
+              "file": "dark/nw-resize_24.svg"
+            },
+            {
+              "file": "dark/nw-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "top_left_corner"
+          ]
+        },
+        {
+          "name": "s-resize",
+          "sprites": [
+            {
+              "file": "dark/s-resize_24.svg"
+            },
+            {
+              "file": "dark/s-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "bottom_side"
+          ]
+        },
+        {
+          "name": "se-resize",
+          "sprites": [
+            {
+              "file": "dark/se-resize_24.svg"
+            },
+            {
+              "file": "dark/se-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "bottom_right_corner"
+          ]
+        },
+        {
+          "name": "sw-resize",
+          "sprites": [
+            {
+              "file": "dark/sw-resize_24.svg"
+            },
+            {
+              "file": "dark/sw-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "bottom_left_corner"
+          ]
+        },
+        {
+          "name": "w-resize",
+          "sprites": [
+            {
+              "file": "dark/w-resize_24.svg"
+            },
+            {
+              "file": "dark/w-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "left_side"
+          ]
+        },
+        {
+          "name": "ew-resize",
+          "sprites": [
+            {
+              "file": "dark/ew-resize_24.svg"
+            },
+            {
+              "file": "dark/ew-resize_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "ns-resize",
+          "sprites": [
+            {
+              "file": "dark/ns-resize_24.svg"
+            },
+            {
+              "file": "dark/ns-resize_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "nesw-resize",
+          "sprites": [
+            {
+              "file": "dark/nesw-resize_24.svg"
+            },
+            {
+              "file": "dark/nesw-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "fd_double_arrow"
+          ]
+        },
+        {
+          "name": "nwse-resize",
+          "sprites": [
+            {
+              "file": "dark/nwse-resize_24.svg"
+            },
+            {
+              "file": "dark/nwse-resize_32.svg"
+            }
+          ],
+          "aliases": [
+            "bd_double_arrow"
+          ]
+        },
+        {
+          "name": "col-resize",
+          "sprites": [
+            {
+              "file": "dark/col-resize_24.svg"
+            },
+            {
+              "file": "dark/col-resize_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "row-resize",
+          "sprites": [
+            {
+              "file": "dark/row-resize_24.svg"
+            },
+            {
+              "file": "dark/row-resize_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "all-scroll",
+          "sprites": [
+            {
+              "file": "dark/all-scroll_24.svg"
+            },
+            {
+              "file": "dark/all-scroll_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "zoom-in",
+          "sprites": [
+            {
+              "file": "dark/zoom-in_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "dark/zoom-in_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "zoom-out",
+          "sprites": [
+            {
+              "file": "dark/zoom-out_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "dark/zoom-out_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "middle_finger",
+          "sprites": [
+            {
+              "file": "dark/middle_finger_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "dark/middle_finger_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "rock_and_roll",
+          "sprites": [
+            {
+              "file": "dark/rock_and_roll_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "dark/rock_and_roll_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "skull",
+          "sprites": [
+            {
+              "file": "dark/skull_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "dark/skull_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "up",
+          "sprites": [
+            {
+              "file": "dark/up_24.svg"
+            },
+            {
+              "file": "dark/up_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "right",
+          "sprites": [
+            {
+              "file": "dark/right_24.svg"
+            },
+            {
+              "file": "dark/right_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "down",
+          "sprites": [
+            {
+              "file": "dark/down_24.svg"
+            },
+            {
+              "file": "dark/down_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "left",
+          "sprites": [
+            {
+              "file": "dark/left_24.svg"
+            },
+            {
+              "file": "dark/left_32.svg"
+            }
+          ]
+        },
+        {
+          "name": "pen",
+          "sprites": [
+            {
+              "file": "dark/pen_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "dark/pen_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "pencil",
+          "sprites": [
+            {
+              "file": "dark/pencil_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "dark/pencil_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "pipette",
+          "sprites": [
+            {
+              "file": "dark/pipette_24.svg",
+              "flips": [
+                "svg"
+              ]
+            },
+            {
+              "file": "dark/pipette_32.svg",
+              "flips": [
+                "svg"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

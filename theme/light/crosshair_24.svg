@@ -1,0 +1,31 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="cursor=crosshair, variant=light, size=24">
+<g id="center">
+<g id="center_2">
+<mask id="path-1-outside-1_2320_8696" maskUnits="userSpaceOnUse" x="1" y="1" width="21" height="21" fill="black">
+<rect fill="white" x="1" y="1" width="21" height="21"/>
+<path d="M11 2V8H12V2H11Z"/>
+<path d="M15 12V11H21V12H15Z"/>
+<path d="M11 15H12V21H11V15Z"/>
+<path d="M2 12H8V11H2V12Z"/>
+</mask>
+<path d="M11 2V8H12V2H11Z" fill="#FBFBFB"/>
+<path d="M15 12V11H21V12H15Z" fill="#FBFBFB"/>
+<path d="M11 15H12V21H11V15Z" fill="#FBFBFB"/>
+<path d="M2 12H8V11H2V12Z" fill="#FBFBFB"/>
+<path d="M11 2V8H12V2H11Z" stroke="black" stroke-opacity="0.6" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_8696)"/>
+<path d="M15 12V11H21V12H15Z" stroke="black" stroke-opacity="0.6" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_8696)"/>
+<path d="M11 15H12V21H11V15Z" stroke="black" stroke-opacity="0.6" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_8696)"/>
+<path d="M2 12H8V11H2V12Z" stroke="black" stroke-opacity="0.6" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_8696)"/>
+</g>
+</g>
+<g id="hotspot" clip-path="url(#clip0_2320_8696)">
+<rect id="center_3" opacity="0.5" x="11" y="11" width="1" height="1" fill="#FF3DFF"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2320_8696">
+<rect width="1" height="1" fill="white" transform="translate(11 11)"/>
+</clipPath>
+</defs>
+</svg>
