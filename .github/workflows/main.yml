@@ -1,51 +1,64 @@
 on: workflow_dispatch
 
 jobs:
-  generate_cursor_theme_job:
+  export_cursor_theme:
     runs-on: ubuntu-latest
-    name: Build phinger-cursors, publish assets and draft release
+    name: Export the latest theme and its assets from the Figma file
+    env:
+      EXPORT_DIRECTORY: export
+      OUTPUT_DIRECTORY: theme
+    outputs:
+      version: ${{ steps.figma_export.outputs.version }}
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Generate variants and assets from Figma file
-        id: figma_cursor_theme
-        uses: phisch/figma-cursor-theme-action@v1.1
+        uses: actions/checkout@v4
+      - name: Export
+        id: figma_export
+        uses: phisch/cursor-theme-builder/action/export@v1.0
         with:
-          figma_access_token: ${{ secrets.FIGMA_ACCESS_TOKEN }}
-          figma_file_key: ${{ secrets.FIGMA_FILE_KEY }}
-          alias_component_set_id: ${{ secrets.ALIAS_COMPONENT_SET_ID }}
-          sprite_component_set_id: ${{ secrets.SPRITE_COMPONENT_SET_ID }}
-          theme_name: 'Phinger Cursors'
-          theme_comment: 'The most over engineered cursor theme.'
-          theme_directory: 'build/themes'
-          export_directory: 'build/exports'
-          svg_directory: 'build/exports/svg'
-
-      - name: Update assets
+          access_token: ${{ secrets.FIGMA_ACCESS_TOKEN }}
+          file_key: ${{ secrets.FIGMA_FILE_KEY }}
+          theme_name: Phinger Cursors
+          theme_author: Philipp Schaffrath (phisch)
+          theme_comment: Most likely the most over engineered cursor theme.
+          output_directory: ${{ env.EXPORT_DIRECTORY }}
+      - name: Replace theme
         run: |
-          rm -rf assets
-          mv build/exports assets
-          
-      - name: Push updated assets
-        uses: EndBug/add-and-commit@v7
+          rm -rf $OUTPUT_DIRECTORY
+          mv $EXPORT_DIRECTORY $OUTPUT_DIRECTORY
+      - name: Commit and push latest theme
+        uses: EndBug/add-and-commit@v9
         with:
-          add: 'assets'
+          add: ${{ env.OUTPUT_DIRECTORY }}
           default_author: github_actor
-          message: 'updated assets from figma file version ${{ steps.figma_cursor_theme.outputs.version }}'
+          message: "exported theme from figma file ${{ secrets.FIGMA_FILE_KEY }} version ${{ steps.figma_export.outputs.version }}"
 
-      - name: Compress variants
-        run: tar -cjf build/phinger-cursors-variants.tar.bz2 -C build/themes .
-
-      - name: Upload cursor variants artifact
-        uses: actions/upload-artifact@v2
+  build_cursor_theme_job:
+    runs-on: ubuntu-latest
+    name: Build cursor theme
+    needs: export_cursor_theme
+    env:
+      ARCHIVE_NAME: phinger-cursors-variants.tar.bz2
+      BUILD_DIRECTORY: build
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Build Cursor Theme
+        uses: phisch/cursor-theme-builder/action/build@v1.0
+        with:
+          cursor_theme_json: theme/cursor-theme.json
+          output_directory: ${{ env.BUILD_DIRECTORY }}/themes
+      - name: Create artifact
+        working-directory: ${{ env.BUILD_DIRECTORY }}
+        run: tar -cjf ${{ env.ARCHIVE_NAME }} -C themes .
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
           name: phinger-cursors-variants
-          path: build/phinger-cursors-variants.tar.bz2
-
+          path: ${{ env.BUILD_DIRECTORY }}/${{ env.ARCHIVE_NAME }}
       - name: Draft Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
-          files: build/phinger-cursors-variants.tar.bz2
+          files: ${{ env.BUILD_DIRECTORY }}/${{ env.ARCHIVE_NAME }}
           draft: true
-          tag_name: ${{ steps.figma_cursor_theme.outputs.version }}
+          tag_name: ${{ job.export_cursor_theme.outputs.version }}

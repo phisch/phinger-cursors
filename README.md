@@ -80,9 +80,9 @@ Each part is designed on a base grid of 24 and 32:
 
 which means will be pixel perfect for any reasonable size:
 
-| 24 | 32 | 48 | 64 | 96 | 128 |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| ![24](assets/sprite__24.png) | ![32](assets/sprite__32.png) | ![48](assets/sprite__48.png) | ![64](assets/sprite__64.png) | ![96](assets/sprite__96.png) | ![128](assets/sprite__128.png) |
+| 24 | 32 | 48 | 64 | 72 | 96 | 128 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ![24](assets/sprite_24.png) | ![32](assets/sprite_32.png) | ![48](assets/sprite_48.png) | ![64](assets/sprite_64.png) | ![72](assets/sprite_72.png) | ![96](assets/sprite_96.png) | ![128](assets/sprite_128.png) |
 
 If possible, parts are designed very modular, which lets you create multiple different icons from one part. A good example is the hand part that comes with multiple variations for each single phinger:
 
@@ -90,22 +90,18 @@ If possible, parts are designed very modular, which lets you create multiple dif
 
 ### Sprites
 
-The parts are assembled, and styled into sprites. Those sprites are named and contain metadata necessary to generate a cursor theme from them. Each sprite contains a name, information about the cursor hotspot, animation and which kind of variant it is.
+The parts are assembled, and styled into sprites. Those sprites are named and contain metadata necessary to generate a cursor theme from them.
+
+Each cursor contains information about which cursor and variant it belongs to, what its cursors aliases should be, how to transform it into a left-handed cursor, a hotspot element and instructions on how it should be animated.
 
 ### Build process
 
-This repository contains a GitHub workflow, that generates a fully functional X11 cursor theme and variants from the linked figma file. The workflow is defined in [.github/workflows/main.yml](.github/workflows/main.yml).
+Phinger cursors are built using my [Cursor Theme Builder](https://github.com/phisch/cursor-theme-builder). It provides a JSON schema to describe a cursor theme, an exporter, that can create such a JSON file and assets from a Figma file, and a builder, which makes fully functioning X11 cursor theme variants from that. It also allows to transform cursors into left-handed versions, comes with an animation system and more.
 
-It uses the custom made GitHub Action [phisch/figma-cursor-theme-action](https://github.com/phisch/figma-cursor-theme-action) to do that.
-
-This action exports assets from the Figma file and commits them to [assets](assets), then renders the sprites into pngs and packs them into proper (and if necessary animated) x11 cursor files. It also generates symlinks and variants, bundles them, and creates a release.
-
-Please refer to the actions [README.md](https://github.com/phisch/figma-cursor-theme-action#readme) for a detailed documentation.
+This repository contains [workflows](.github/workflows) to extract a cursor-theme.json and assets, and drafts a release with built cursor theme variants.
 
 ## License & Credits
 All assets, including the Figma document are licensed under the [CC-BY-SA-4.0 License](LICENSE).
-
-The X11 and Wayland cursors are designed from scratch, and not copied. The original logos belong to X11 and Wayland respectively though.
 
 Although designed from scratch, phinger cursors drew inspiration from [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors), which is based on the KDE Breeze cursors. So this is a special thanks to them, and all other amazing cursor themes out there!
 
