@@ -40,7 +40,8 @@
             }
           ],
           "aliases": [
-            "hand2"
+            "hand2",
+            "pointing_hand"
           ]
         },
         {
@@ -71,7 +72,8 @@
             "cross",
             "cross_reverse",
             "diamond_cross",
-            "tcross"
+            "tcross",
+            "target"
           ]
         },
         {
@@ -95,17 +97,15 @@
           "name": "skull",
           "sprites": [
             {
-              "file": "light/skull_24.svg",
-              "flips": [
-                "svg"
-              ]
+              "file": "light/skull_24.svg"
             },
             {
-              "file": "light/skull_32.svg",
-              "flips": [
-                "svg"
-              ]
+              "file": "light/skull_32.svg"
             }
+          ],
+          "aliases": [
+            "kill",
+            "pirate"
           ]
         },
         {
@@ -166,7 +166,9 @@
             }
           ],
           "aliases": [
-            "question_arrow"
+            "question_arrow",
+            "whats_this",
+            "left_ptr_help"
           ]
         },
         {
@@ -226,6 +228,10 @@
                 "#spinner"
               ]
             }
+          ],
+          "aliases": [
+            "left_ptr_watch",
+            "half-busy"
           ]
         },
         {
@@ -332,6 +338,9 @@
                 "#icon"
               ]
             }
+          ],
+          "aliases": [
+            "link"
           ]
         },
         {
@@ -345,7 +354,8 @@
             }
           ],
           "aliases": [
-            "fleur"
+            "fleur",
+            "size_all"
           ]
         },
         {
@@ -365,6 +375,10 @@
                 "#icon"
               ]
             }
+          ],
+          "aliases": [
+            "dnd-no-drop",
+            "forbidden"
           ]
         },
         {
@@ -395,7 +409,8 @@
             }
           ],
           "aliases": [
-            "hand1"
+            "hand1",
+            "openhand"
           ]
         },
         {
@@ -413,6 +428,11 @@
                 "svg"
               ]
             }
+          ],
+          "aliases": [
+            "dnd-move",
+            "dnd-none",
+            "closedhand"
           ]
         },
         {
@@ -546,7 +566,8 @@
             }
           ],
           "aliases": [
-            "fd_double_arrow"
+            "fd_double_arrow",
+            "size_bdiag"
           ]
         },
         {
@@ -560,7 +581,8 @@
             }
           ],
           "aliases": [
-            "bd_double_arrow"
+            "bd_double_arrow",
+            "size_fdiag"
           ]
         },
         {
@@ -583,6 +605,9 @@
             {
               "file": "light/row-resize_32.svg"
             }
+          ],
+          "aliases": [
+            "split_v"
           ]
         },
         {
@@ -656,6 +681,9 @@
             {
               "file": "light/up_32.svg"
             }
+          ],
+          "aliases": [
+            "up-arrow"
           ]
         },
         {
@@ -667,6 +695,9 @@
             {
               "file": "light/right_32.svg"
             }
+          ],
+          "aliases": [
+            "right-arrow"
           ]
         },
         {
@@ -678,6 +709,9 @@
             {
               "file": "light/down_32.svg"
             }
+          ],
+          "aliases": [
+            "down-arrow"
           ]
         },
         {
@@ -689,6 +723,9 @@
             {
               "file": "light/left_32.svg"
             }
+          ],
+          "aliases": [
+            "left-arrow"
           ]
         },
         {
@@ -706,6 +743,9 @@
                 "svg"
               ]
             }
+          ],
+          "aliases": [
+            "draft"
           ]
         },
         {
@@ -740,6 +780,9 @@
                 "svg"
               ]
             }
+          ],
+          "aliases": [
+            "color-picker"
           ]
         }
       ]
@@ -805,7 +848,9 @@
             }
           ],
           "aliases": [
-            "question_arrow"
+            "question_arrow",
+            "whats_this",
+            "left_ptr_help"
           ]
         },
         {
@@ -825,7 +870,8 @@
             }
           ],
           "aliases": [
-            "hand2"
+            "hand2",
+            "pointing_hand"
           ]
         },
         {
@@ -885,6 +931,10 @@
                 "#spinner"
               ]
             }
+          ],
+          "aliases": [
+            "left_ptr_watch",
+            "half-busy"
           ]
         },
         {
@@ -966,7 +1016,8 @@
             "cross",
             "cross_reverse",
             "diamond_cross",
-            "tcross"
+            "tcross",
+            "target"
           ]
         },
         {
@@ -1008,6 +1059,9 @@
                 "#icon"
               ]
             }
+          ],
+          "aliases": [
+            "link"
           ]
         },
         {
@@ -1040,7 +1094,8 @@
             }
           ],
           "aliases": [
-            "fleur"
+            "fleur",
+            "size_all"
           ]
         },
         {
@@ -1060,6 +1115,10 @@
                 "#icon"
               ]
             }
+          ],
+          "aliases": [
+            "dnd-no-drop",
+            "forbidden"
           ]
         },
         {
@@ -1090,7 +1149,8 @@
             }
           ],
           "aliases": [
-            "hand1"
+            "hand1",
+            "openhand"
           ]
         },
         {
@@ -1108,6 +1168,11 @@
                 "svg"
               ]
             }
+          ],
+          "aliases": [
+            "dnd-move",
+            "dnd-none",
+            "closedhand"
           ]
         },
         {
@@ -1255,7 +1320,8 @@
             }
           ],
           "aliases": [
-            "fd_double_arrow"
+            "fd_double_arrow",
+            "size_bdiag"
           ]
         },
         {
@@ -1269,7 +1335,8 @@
             }
           ],
           "aliases": [
-            "bd_double_arrow"
+            "bd_double_arrow",
+            "size_fdiag"
           ]
         },
         {
@@ -1292,6 +1359,9 @@
             {
               "file": "dark/row-resize_32.svg"
             }
+          ],
+          "aliases": [
+            "split_v"
           ]
         },
         {
@@ -1377,17 +1447,15 @@
           "name": "skull",
           "sprites": [
             {
-              "file": "dark/skull_24.svg",
-              "flips": [
-                "svg"
-              ]
+              "file": "dark/skull_24.svg"
             },
             {
-              "file": "dark/skull_32.svg",
-              "flips": [
-                "svg"
-              ]
+              "file": "dark/skull_32.svg"
             }
+          ],
+          "aliases": [
+            "kill",
+            "pirate"
           ]
         },
         {
@@ -1399,6 +1467,9 @@
             {
               "file": "dark/up_32.svg"
             }
+          ],
+          "aliases": [
+            "up-arrow"
           ]
         },
         {
@@ -1410,6 +1481,9 @@
             {
               "file": "dark/right_32.svg"
             }
+          ],
+          "aliases": [
+            "right-arrow"
           ]
         },
         {
@@ -1421,6 +1495,9 @@
             {
               "file": "dark/down_32.svg"
             }
+          ],
+          "aliases": [
+            "down-arrow"
           ]
         },
         {
@@ -1432,6 +1509,9 @@
             {
               "file": "dark/left_32.svg"
             }
+          ],
+          "aliases": [
+            "left-arrow"
           ]
         },
         {
@@ -1449,6 +1529,9 @@
                 "svg"
               ]
             }
+          ],
+          "aliases": [
+            "draft"
           ]
         },
         {
@@ -1483,6 +1566,9 @@
                 "svg"
               ]
             }
+          ],
+          "aliases": [
+            "color-picker"
           ]
         }
       ]
