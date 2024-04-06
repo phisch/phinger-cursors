@@ -297,6 +297,9 @@
             {
               "file": "light/cell_32.svg"
             }
+          ],
+          "aliases": [
+            "plus"
           ]
         },
         {
@@ -308,6 +311,10 @@
             {
               "file": "light/text_32.svg"
             }
+          ],
+          "aliases": [
+            "xterm",
+            "ibeam"
           ]
         },
         {
@@ -390,6 +397,10 @@
             {
               "file": "light/not-allowed_32.svg"
             }
+          ],
+          "aliases": [
+            "crossed_circle",
+            "circle"
           ]
         },
         {
@@ -542,6 +553,10 @@
             {
               "file": "light/ew-resize_32.svg"
             }
+          ],
+          "aliases": [
+            "sb_h_double_arrow",
+            "size_hor"
           ]
         },
         {
@@ -553,6 +568,11 @@
             {
               "file": "light/ns-resize_32.svg"
             }
+          ],
+          "aliases": [
+            "sb_v_double_arrow",
+            "size_ver",
+            "v_double_arrow"
           ]
         },
         {
@@ -594,6 +614,9 @@
             {
               "file": "light/col-resize_32.svg"
             }
+          ],
+          "aliases": [
+            "split_h"
           ]
         },
         {
@@ -1000,6 +1023,9 @@
             {
               "file": "dark/cell_32.svg"
             }
+          ],
+          "aliases": [
+            "plus"
           ]
         },
         {
@@ -1029,6 +1055,10 @@
             {
               "file": "dark/text_32.svg"
             }
+          ],
+          "aliases": [
+            "xterm",
+            "ibeam"
           ]
         },
         {
@@ -1130,6 +1160,10 @@
             {
               "file": "dark/not-allowed_32.svg"
             }
+          ],
+          "aliases": [
+            "crossed_circle",
+            "circle"
           ]
         },
         {
@@ -1296,6 +1330,10 @@
             {
               "file": "dark/ew-resize_32.svg"
             }
+          ],
+          "aliases": [
+            "sb_h_double_arrow",
+            "size_hor"
           ]
         },
         {
@@ -1307,6 +1345,11 @@
             {
               "file": "dark/ns-resize_32.svg"
             }
+          ],
+          "aliases": [
+            "sb_v_double_arrow",
+            "size_ver",
+            "v_double_arrow"
           ]
         },
         {
@@ -1348,6 +1391,9 @@
             {
               "file": "dark/col-resize_32.svg"
             }
+          ],
+          "aliases": [
+            "split_h"
           ]
         },
         {
