@@ -21,6 +21,9 @@
                 "#icon"
               ]
             }
+          ],
+          "aliases": [
+            "dnd-copy"
           ]
         },
         {
@@ -168,7 +171,8 @@
           "aliases": [
             "question_arrow",
             "whats_this",
-            "left_ptr_help"
+            "left_ptr_help",
+            "dnd-help"
           ]
         },
         {
@@ -231,7 +235,8 @@
           ],
           "aliases": [
             "left_ptr_watch",
-            "half-busy"
+            "half-busy",
+            "08e8e1c95fe2fc01f976f1e063a24ccd"
           ]
         },
         {
@@ -873,7 +878,8 @@
           "aliases": [
             "question_arrow",
             "whats_this",
-            "left_ptr_help"
+            "left_ptr_help",
+            "dnd-help"
           ]
         },
         {
@@ -957,7 +963,8 @@
           ],
           "aliases": [
             "left_ptr_watch",
-            "half-busy"
+            "half-busy",
+            "08e8e1c95fe2fc01f976f1e063a24ccd"
           ]
         },
         {
@@ -1111,6 +1118,9 @@
                 "#icon"
               ]
             }
+          ],
+          "aliases": [
+            "dnd-copy"
           ]
         },
         {
