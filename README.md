@@ -59,7 +59,7 @@ This installs the cursor theme for your current user. To install for all users, 
 
 ## How to enable
 
-You might have a settings application installed that can do this for you like [Gnome Tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks) or [lxappearance](https://wiki.lxde.org/en/LXAppearance). If you don't, enable the cursor theme as described below.
+You might have a settings application installed that can do this for you like [Gnome Tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks), [nwg-look](https://github.com/nwg-piotr/nwg-look) or [lxappearance](https://wiki.lxde.org/en/LXAppearance). If you don't, enable the cursor theme as described below.
 
 ### Manually
 
