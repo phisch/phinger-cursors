@@ -59,7 +59,7 @@ This installs the cursor theme for your current user. To install for all users, 
 
 ## How to enable
 
-You might have a settings application installed that can do this for you like [Gnome Tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks), [nwg-look](https://github.com/nwg-piotr/nwg-look) or [lxappearance](https://wiki.lxde.org/en/LXAppearance). If you don't, enable the cursor theme as described below.
+You might have a settings application installed that can do this for you like [GNOME Tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks), [nwg-look](https://github.com/nwg-piotr/nwg-look) or [lxappearance](https://wiki.lxde.org/en/LXAppearance). If you don't, enable the cursor theme as described below.
 
 ### Manually
 
@@ -83,13 +83,13 @@ gtk-cursor-theme-name=phinger-cursors-light
 
 The available cursor sizes are `24`, `32`, `48`, `64`, `96` and `128`. How to change it depends on your current environment.
 
-### GNOME, MATE, XFCE
+### GNOME, MATE, Xfce
 
 Run the following command and replace `CURSOR_SIZE` with your prefered one:
 
 - on GNOME: `gsettings set org.gnome.desktop.interface cursor-size CURSOR_SIZE`
 - on MATE: `gsettings set org.mate.peripherals-mouse CURSOR_SIZE`
-- on XFCE: `xfconf-query --channel xsettings --property /Gtk/CursorThemeSize --set CURSOR_SIZE`
+- on Xfce: `xfconf-query --channel xsettings --property /Gtk/CursorThemeSize --set CURSOR_SIZE`
 
 ### Xresources
 
