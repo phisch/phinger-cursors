@@ -7,7 +7,7 @@
 <path d="M20 11.5L13 7L12 10L4 11L4 12L12 13L13 16L20 11.5Z"/>
 </mask>
 <path d="M20 11.5L13 7L12 10L4 11L4 12L12 13L13 16L20 11.5Z" fill="#0D0D0D"/>
-<path d="M20 11.5L13 7L12 10L4 11L4 12L12 13L13 16L20 11.5Z" stroke="white" stroke-opacity="0.6" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_9340)"/>
+<path d="M20 11.5L13 7L12 10L4 11L4 12L12 13L13 16L20 11.5Z" stroke="white" stroke-opacity="0.65" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_9340)"/>
 </g>
 </g>
 <g id="hotspot" clip-path="url(#clip1_2320_9340)">
