@@ -52,6 +52,7 @@ home.pointerCursor = {
 For a manual installation, download and extract the [latest release](https://github.com/phisch/phinger-cursors/releases/latest/download/phinger-cursors-variants.tar.bz2) into the `~/.local/share/icons` directory.
 
 ```sh
+mkdir -p ~/.local/share/icons
 wget -cO- https://github.com/phisch/phinger-cursors/releases/latest/download/phinger-cursors-variants.tar.bz2 | tar xfj - -C ~/.local/share/icons
 ```
 
